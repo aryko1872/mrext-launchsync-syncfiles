@@ -1,0 +1,1484 @@
+name = Shmups
+author = Me
+updated = 2023-10-16
+
+[1941 - Counter Attack (TurboGrafx16)]
+system = TurboGrafx16
+match = 1941 - Counter Attack (Japan)
+
+[1942 (NES)]
+system = NES
+match = 1942 (Japan, USA)
+
+[1943 - The Battle of Midway (NES)]
+system = NES
+match = 1943 - The Battle of Midway (USA)
+
+[1943 Kai (TurboGrafx16)]
+system = TurboGrafx16
+match = 1943 Kai (Japan)
+
+[A-X-101 (MegaCD)]
+system = MegaCD
+match = A-X-101
+
+[Abadox - The Deadly Inner War (NES)]
+system = NES
+match = Abadox - The Deadly Inner War (USA)
+
+[Adventures of Batman & Robin (MegaCD)]
+system = MegaCD
+match = Adventures of Batman & Robin
+
+[Aerial Assault (MasterSystem)]
+system = MasterSystem
+match = Aerial Assault (USA)
+
+[Aero Blasters (Genesis)]
+system = Genesis
+match = Aero Blasters (Japan)
+
+[Aero Blasters (TurboGrafx16)]
+system = TurboGrafx16
+match = Aero Blasters (USA)
+
+[Aero Blasters (TurboGrafx16)]
+system = TurboGrafx16
+match = Aero Blasters (Japan)
+
+[Aero Fighters (SNES)]
+system = SNES
+match = Aero Fighters (USA)
+
+[Ai Chou Aniki (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Ai Chou Aniki
+
+[Air Buster (Genesis)]
+system = Genesis
+match = Air Buster (USA)
+
+[Air Zonk (TurboGrafx16)]
+system = TurboGrafx16
+match = Air Zonk (USA)
+
+[Airgrave (PSX)]
+system = PSX
+match = Airgrave (Japan)
+
+[Aldynes (TurboGrafx16)]
+system = TurboGrafx16
+match = Aldynes (Japan)
+
+[Alpha Mission (NES)]
+system = NES
+match = Alpha Mission (USA)
+
+[Amazing Spider-Man, The - Web of Fire (Sega32X)]
+system = Sega32X
+match = Amazing Spider-Man, The - Web of Fire
+
+[Android Assault - The Revenge of Bari-Arm (MegaCD)]
+system = MegaCD
+match = Android Assault - The Revenge of Bari-Arm (USA)
+
+[Android Assault - The Revenge of Bari-Arm (MegaCD)]
+system = MegaCD
+match = Android Assault - The Revenge of Bari-Arm
+
+[Apocalypse II (SNES)]
+system = SNES
+match = Apocalypse II (Europe) (Proto)
+
+[Archer Maclean's Super Dropzone (SNES)]
+system = SNES
+match = Archer Maclean's Super Dropzone (Europe)
+
+[Argus (NES)]
+system = NES
+match = Argus (Japan)
+
+[Armed Formation F (TurboGrafx16)]
+system = TurboGrafx16
+match = Armed Formation F (Japan)
+
+[Arrow Flash (Genesis)]
+system = Genesis
+match = Arrow Flash (USA, Europe)
+
+[Asteroids (PSX)]
+system = PSX
+match = Asteroids (USA)
+
+[Astro Warrior (MasterSystem)]
+system = MasterSystem
+match = Astro Warrior (Japan, USA)
+
+[Atomic Robo-Kid Special (TurboGrafx16)]
+system = TurboGrafx16
+match = Atomic Robo-Kid Special (Japan)
+
+[Avenger (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Avenger
+
+[Axelay (SNES)]
+system = SNES
+match = Axelay (USA)
+
+[B-Wings (NES)]
+system = NES
+match = B-Wings (Japan)
+
+[Baltron (NES)]
+system = NES
+match = Baltron (Japan)
+
+[Barunba (TurboGrafx16)]
+system = TurboGrafx16
+match = Barunba (Japan)
+
+[Battle Mania (Genesis)]
+system = Genesis
+match = Battle Mania (Japan)
+
+[Battle Squadron (Genesis)]
+system = Genesis
+match = Battle Squadron (USA, Europe)
+
+[Bio Hazard Battle (Genesis)]
+system = Genesis
+match = Bio Hazard Battle (USA, Europe)
+
+[BioMetal (SNES)]
+system = SNES
+match = BioMetal (USA)
+
+[Blade Eagle (MasterSystem)]
+system = MasterSystem
+match = Blade Eagle (World)
+
+[BlaZeon: The Bio-Cyborg Challenge (SNES)]
+system = SNES
+match = BlaZeon: The Bio-Cyborg Challenge (USA)
+
+[Blazing Lazers (TurboGrafx16)]
+system = TurboGrafx16
+match = Blazing Lazers (USA)
+
+[Bomber Raid (MasterSystem)]
+system = MasterSystem
+match = Bomber Raid (World)
+
+[Bouken Danshaku Don - The Lost Sunheart (TurboGrafx16)]
+system = TurboGrafx16
+match = Bouken Danshaku Don - The Lost Sunheart (Japan)
+
+[Bouncers (MegaCD)]
+system = MegaCD
+match = Bouncers
+
+[Burai Fighter (NES)]
+system = NES
+match = Burai Fighter (USA)
+
+[Capcom Generation - Dai 1 Shuu Gekitsuiou no Jidai (PSX)]
+system = PSX
+match = Capcom Generation - Dai 1 Shuu Gekitsuiou no Jidai (Japan)
+
+[Captain Skyhawk (NES)]
+system = NES
+match = Captain Skyhawk (USA)
+
+[Choplifter III: Rescue & Survive (SNES)]
+system = SNES
+match = Choplifter III: Rescue & Survive (USA)
+
+[Chou Aniki (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Chou Aniki
+
+[Chou-Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko (PSX)]
+system = PSX
+match = Chou-Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko (Japan)
+
+[Chouzetsu Rinjin - Bravoman (TurboGrafx16)]
+system = TurboGrafx16
+match = Chouzetsu Rinjin - Bravoman (Japan)
+
+[Cloud Master (MasterSystem)]
+system = MasterSystem
+match = Cloud Master (USA, Europe)
+
+[Coryoon - Child of Dragon (TurboGrafx16)]
+system = TurboGrafx16
+match = Coryoon - Child of Dragon (Japan)
+
+[Cosmic Carnage (Sega32X)]
+system = Sega32X
+match = Cosmic Carnage
+
+[Cotton 100% (PSX)]
+system = PSX
+match = Cotton 100% (Japan)
+
+[Cotton Original - Fantastic Night Dreams (PSX)]
+system = PSX
+match = Cotton Original - Fantastic Night Dreams (Japan)
+
+[Cross Wiber - Cyber Combat Police (TurboGrafx16)]
+system = TurboGrafx16
+match = Cross Wiber - Cyber Combat Police (Japan)
+
+[Crying - Aseimei Sensou (Genesis)]
+system = Genesis
+match = Crying - Aseimei Sensou (Japan)
+
+[Curse (Genesis)]
+system = Genesis
+match = Curse (Japan)
+
+[Cyber Core (TurboGrafx16)]
+system = TurboGrafx16
+match = Cyber Core (USA)
+
+[Daisenpuu (TurboGrafx16)]
+system = TurboGrafx16
+match = Daisenpuu (Japan)
+
+[Dangerous Seed (Genesis)]
+system = Genesis
+match = Dangerous Seed (Japan)
+
+[Darius Alpha (TurboGrafx16)]
+system = TurboGrafx16
+match = Darius Alpha (Japan)
+
+[Darius Gaiden (PSX)]
+system = PSX
+match = Darius Gaiden (Japan)
+
+[Darius II (Genesis)]
+system = Genesis
+match = Darius II (Japan)
+
+[Darius Plus (TurboGrafx16)]
+system = TurboGrafx16
+match = Darius Plus (Japan)
+
+[Darius Twin (SNES)]
+system = SNES
+match = Darius Twin (USA)
+
+[Dark Wizard (MegaCD)]
+system = MegaCD
+match = Dark Wizard
+
+[Darwin 4081 (Genesis)]
+system = Genesis
+match = Darwin 4081 (Japan, Korea)
+
+[Darxide (Sega32X)]
+system = Sega32X
+match = Darxide
+
+[Dead Moon - Getsu Sekai no Akumu (TurboGrafx16)]
+system = TurboGrafx16
+match = Dead Moon - Getsu Sekai no Akumu (Japan)
+
+[Dead Moon (TurboGrafx16)]
+system = TurboGrafx16
+match = Dead Moon (USA)
+
+[Dead Moon (TurboGrafx16)]
+system = TurboGrafx16
+match = Dead Moon (Japan)
+
+[Deep Blue - Kaitei Shinwa (TurboGrafx16)]
+system = TurboGrafx16
+match = Deep Blue - Kaitei Shinwa (Japan)
+
+[Deep Blue (TurboGrafx16)]
+system = TurboGrafx16
+match = Deep Blue (USA)
+
+[Defender II (NES)]
+system = NES
+match = Defender II (USA)
+
+[Desert Strike: Return to the Gulf (SNES)]
+system = SNES
+match = Desert Strike: Return to the Gulf (USA)
+
+[Detana Twinbee Yahho! Deluxe Pack (PSX)]
+system = PSX
+match = Detana Twinbee Yahho! Deluxe Pack (Japan)
+
+[Detana!! TwinBee (TurboGrafx16)]
+system = TurboGrafx16
+match = Detana!! TwinBee (Japan)
+
+[Dezaemon Kids (PSX)]
+system = PSX
+match = Dezaemon Kids (Japan) (Disc 2)
+
+[Dezaemon Kids (PSX)]
+system = PSX
+match = Dezaemon Kids (Japan)
+
+[Dezaemon Plus (PSX)]
+system = PSX
+match = Dezaemon Plus (Japan)
+
+[DoDonPachi (PSX)]
+system = PSX
+match = DoDonPachi (Japan) (v1.1)
+
+[DonPachi (PSX)]
+system = PSX
+match = DonPachi (Japan)
+
+[Download (TurboGrafx16)]
+system = TurboGrafx16
+match = Download (Japan)
+
+[Dragon Saber - After Story of Dragon Spirit (TurboGrafx16)]
+system = TurboGrafx16
+match = Dragon Saber - After Story of Dragon Spirit (Japan) (Alt 1)
+
+[Dragon Saber - After Story of Dragon Spirit (TurboGrafx16)]
+system = TurboGrafx16
+match = Dragon Saber - After Story of Dragon Spirit (Japan)
+
+[Dragon Spirit - The New Legend (NES)]
+system = NES
+match = Dragon Spirit - The New Legend (USA)
+
+[Dragon Spirit (TurboGrafx16)]
+system = TurboGrafx16
+match = Dragon Spirit (USA)
+
+[Dragon Spirit (TurboGrafx16)]
+system = TurboGrafx16
+match = Dragon Spirit (Japan)
+
+[Dropzone (NES)]
+system = NES
+match = Dropzone (Europe)
+
+[Dungeon Explorer (MegaCD)]
+system = MegaCD
+match = Dungeon Explorer
+
+[Dungeon Master - Theron's Quest (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Dungeon Master - Theron's Quest
+
+[Earth Defense Force (SNES)]
+system = SNES
+match = Earth Defense Force (USA)
+
+[Einhander (PSX)]
+system = PSX
+match = Einhander (USA)
+
+[Elemental Master (Genesis)]
+system = Genesis
+match = Elemental Master (USA)
+
+[Eliminate Down (Genesis)]
+system = Genesis
+match = Eliminate Down (Japan)
+
+[ESPN NBA Hangtime '95 (MegaCD)]
+system = MegaCD
+match = ESPN NBA Hangtime '95
+
+[Eternal Champions - Challenge from the Dark Side (MegaCD)]
+system = MegaCD
+match = Eternal Champions - Challenge from the Dark Side
+
+[Exed Exes (NES)]
+system = NES
+match = Exed Exes (Japan)
+
+[Fantasy Zone (MasterSystem)]
+system = MasterSystem
+match = Fantasy Zone (World)
+
+[Fantasy Zone (NES)]
+system = NES
+match = Fantasy Zone (USA) (Unl)
+
+[Fantasy Zone (TurboGrafx16)]
+system = TurboGrafx16
+match = Fantasy Zone (USA)
+
+[Fantasy Zone 2 - Opa-Opa no Namida (NES)]
+system = NES
+match = Fantasy Zone 2 - Opa-Opa no Namida (Japan)
+
+[Fantasy Zone II - The Tears of Opa-Opa (MasterSystem)]
+system = MasterSystem
+match = Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)
+
+[Final Blaster (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Blaster (Japan)
+
+[Final Soldier (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier (J)
+
+[Final Soldier (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier (Japan) (Special Version)
+
+[Final Soldier (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier (Japan)
+
+[Final Soldier Sounds (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier Sounds
+
+[Final Soldier Special Version (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier Special Version (J)
+
+[Final Zone II (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Final Zone II
+
+[Finger Flashing (PSX)]
+system = PSX
+match = Finger Flashing (Japan)
+
+[Fire Mustang (Genesis)]
+system = Genesis
+match = Fire Mustang (Japan)
+
+[Flash Hiders (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Flash Hiders
+
+[Forgotten Worlds (Genesis)]
+system = Genesis
+match = Forgotten Worlds (World)
+
+[Forgotten Worlds (MasterSystem)]
+system = MasterSystem
+match = Forgotten Worlds (Europe)
+
+[Forgotten Worlds (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Forgotten Worlds
+
+[Formation Z (NES)]
+system = NES
+match = Formation Z (Japan)
+
+[Formula One World Championship (MegaCD)]
+system = MegaCD
+match = Formula One World Championship
+
+[G. Darius (PSX)]
+system = PSX
+match = G. Darius (USA)
+
+[Gadget Twins (Genesis)]
+system = Genesis
+match = Gadget Twins (USA)
+
+[Gaia Seed - Project Seed Trap (PSX)]
+system = PSX
+match = Gaia Seed - Project Seed Trap
+
+[Gaiares (Genesis)]
+system = Genesis
+match = Gaiares (Japan, USA)
+
+[Galactic Crusader (NES)]
+system = NES
+match = Galactic Crusader (USA) (Unl)
+
+[Galaga - Destination Earth (PSX)]
+system = PSX
+match = Galaga - Destination Earth (USA)
+
+[Galaga '88 (TurboGrafx16)]
+system = TurboGrafx16
+match = Galaga '88 (Japan)
+
+[Global Defense (MasterSystem)]
+system = MasterSystem
+match = Global Defense (USA, Europe)
+
+[Godzilla (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Godzilla
+
+[Gokujou Parodius Da! Deluxe Pack (PSX)]
+system = PSX
+match = Gokujou Parodius Da! Deluxe Pack (Japan)
+
+[Gokuraku! Chuuka Taisen (TurboGrafx16)]
+system = TurboGrafx16
+match = Gokuraku! Chuuka Taisen (Japan)
+
+[Golf Magazine (Sega32X)]
+system = Sega32X
+match = Golf Magazine
+
+[Gradius (NES)]
+system = NES
+match = Gradius (USA)
+
+[Gradius (TurboGrafx16)]
+system = TurboGrafx16
+match = Gradius (Japan)
+
+[Gradius Deluxe Pack (PSX)]
+system = PSX
+match = Gradius Deluxe Pack
+
+[Gradius Gaiden (PSX)]
+system = PSX
+match = Gradius Gaiden
+
+[Gradius II - Gofer no Yabou (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Gradius II - Gofer no Yabou
+
+[Gradius II (NES)]
+system = NES
+match = Gradius II (Japan)
+
+[Gradius III (SNES)]
+system = SNES
+match = Gradius III (USA)
+
+[Grind Stormer (Genesis)]
+system = Genesis
+match = Grind Stormer (USA)
+
+[Ground Zero Texas (MegaCD)]
+system = MegaCD
+match = Ground Zero Texas
+
+[Guardian Legend, The (NES)]
+system = NES
+match = Guardian Legend, The (USA)
+
+[Gunhed - Hudson Gunhed Taikai (TurboGrafx16)]
+system = TurboGrafx16
+match = Gunhed - Hudson Gunhed Taikai (Japan)
+
+[Gunhed (TurboGrafx16)]
+system = TurboGrafx16
+match = Gunhed (Japan)
+
+[Gyrodine (NES)]
+system = NES
+match = Gyrodine (Japan)
+
+[Hana Taaka Daka! (TurboGrafx16)]
+system = TurboGrafx16
+match = Hana Taaka Daka! (Japan)
+
+[Hard Boiled (PSX)]
+system = PSX
+match = Hard Boiled
+
+[Heart of the Alien - Out of This World Parts I and II (MegaCD)]
+system = MegaCD
+match = Heart of the Alien - Out of This World Parts I and II
+
+[Heavy Unit - Mega Drive Special (Genesis)]
+system = Genesis
+match = Heavy Unit - Mega Drive Special (Japan)
+
+[Heavy Unit (TurboGrafx16)]
+system = TurboGrafx16
+match = Heavy Unit (Japan)
+
+[Hellfire (Genesis)]
+system = Genesis
+match = Hellfire (USA)
+
+[Hunt for Red October, The (SNES)]
+system = SNES
+match = Hunt for Red October, The (USA)
+
+[HyperZone (SNES)]
+system = SNES
+match = HyperZone (USA)
+
+[Image Fight (NES)]
+system = NES
+match = Image Fight (USA)
+
+[Image Fight (TurboGrafx16)]
+system = TurboGrafx16
+match = Image Fight (Japan)
+
+[Image Fight & X-Multiply Arcade Gears (PSX)]
+system = PSX
+match = Image Fight & X-Multiply Arcade Gears (Japan)
+
+[Imperium (SNES)]
+system = SNES
+match = Imperium (USA)
+
+[In the Hunt (PSX)]
+system = PSX
+match = In the Hunt (USA)
+
+[Insector X (Genesis)]
+system = Genesis
+match = Insector X (USA)
+
+[Jikkyou Oshaberi Parodius - Forever with Me (PSX)]
+system = PSX
+match = Jikkyou Oshaberi Parodius - Forever with Me (Japan)
+
+[Jungle Strike (SNES)]
+system = SNES
+match = Jungle Strike (USA)
+
+[Kagaku Ninja Tai Gatchaman - The shooting (PSX)]
+system = PSX
+match = Kagaku Ninja Tai Gatchaman - The shooting (Japan)
+
+[Kaizou Choujin Shubibinman 3 - Ikai no Princess (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Kaizou Choujin Shubibinman 3 - Ikai no Princess
+
+[Keio Flying Squadron (MegaCD)]
+system = MegaCD
+match = Keio Flying Squadron (USA)
+
+[Keio Flying Squadron (MegaCD)]
+system = MegaCD
+match = Keio Flying Squadron
+
+[Knuckles' Chaotix (Sega32X)]
+system = Sega32X
+match = Knuckles' Chaotix
+
+[Kolibri (Sega32X)]
+system = Sega32X
+match = Kolibri
+
+[Konami Antiques - MSX Collection Vol. 1 (PSX)]
+system = PSX
+match = Konami Antiques - MSX Collection Vol. 1 (Japan)
+
+[Konami Antiques - MSX Collection Vol. 2 (PSX)]
+system = PSX
+match = Konami Antiques - MSX Collection Vol. 2 (Japan)
+
+[Konami Antiques - MSX Collection Vol. 3 (PSX)]
+system = PSX
+match = Konami Antiques - MSX Collection Vol. 3 (Japan)
+
+[Koutetsu Teikoku (Genesis)]
+system = Genesis
+match = Koutetsu Teikoku (Japan)
+
+[Kuuga - Operation Code 'Vapor Trail' (Genesis)]
+system = Genesis
+match = Kuuga - Operation Code 'Vapor Trail' (Japan)
+
+[Kyuukyoku Tiger (Genesis)]
+system = Genesis
+match = Kyuukyoku Tiger (Japan)
+
+[Kyuukyoku Tiger (TurboGrafx16)]
+system = TurboGrafx16
+match = Kyuukyoku Tiger (Japan)
+
+[Last Alert (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Last Alert
+
+[Last Starfighter, The (NES)]
+system = NES
+match = Last Starfighter, The (USA)
+
+[Legendary Wings (NES)]
+system = NES
+match = Legendary Wings (USA)
+
+[Life Force (NES)]
+system = NES
+match = Life Force (USA)
+
+[Lightening Force - Quest for the Darkstar (Genesis)]
+system = Genesis
+match = Lightening Force - Quest for the Darkstar (USA)
+
+[Lords of Thunder (MegaCD)]
+system = MegaCD
+match = Lords of Thunder (USA)
+
+[Lords of Thunder (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Lords of Thunder
+
+[Lunar - The Silver Star (MegaCD)]
+system = MegaCD
+match = Lunar - The Silver Star
+
+[Macross - Do You Remember Love (PSX)]
+system = PSX
+match = Macross - Do You Remember Love (Japan)
+
+[Magical Chase (TurboGrafx16)]
+system = TurboGrafx16
+match = Magical Chase (USA)
+
+[Magical Chase (TurboGrafx16)]
+system = TurboGrafx16
+match = Magical Chase (Japan)
+
+[Magmax (NES)]
+system = NES
+match = Magmax (USA)
+
+[Master of Weapon (Genesis)]
+system = Genesis
+match = Master of Weapon (Japan)
+
+[Mega SWIV (Genesis)]
+system = Genesis
+match = Mega SWIV (Europe)
+
+[Meta-Ph-List Gamma X 2097 (PSX)]
+system = PSX
+match = Meta-Ph-List Gamma X 2097 (Japan)
+
+[Metal Fighter (NES)]
+system = NES
+match = Metal Fighter (USA) (Unl)
+
+[Metal Head (Sega32X)]
+system = Sega32X
+match = Metal Head
+
+[Mighty Morphin Power Rangers (MegaCD)]
+system = MegaCD
+match = Mighty Morphin Power Rangers
+
+[Mission Cobra (NES)]
+system = NES
+match = Mission Cobra (USA) (Unl)
+
+[Motocross Championship (Sega32X)]
+system = Sega32X
+match = Motocross Championship
+
+[MUSHA - Metallic Uniframe Super Hybrid Armor (Genesis)]
+system = Genesis
+match = MUSHA - Metallic Uniframe Super Hybrid Armor (USA)
+
+[Musha Aleste - Full Metal Fighter Ellinor (Genesis)]
+system = Genesis
+match = Musha Aleste - Full Metal Fighter Ellinor (Japan)
+
+[Ordyne (TurboGrafx16)]
+system = TurboGrafx16
+match = Ordyne (USA)
+
+[Ordyne (TurboGrafx16)]
+system = TurboGrafx16
+match = Ordyne (Japan)
+
+[Over Horizon (NES)]
+system = NES
+match = Over Horizon (Europe)
+
+[P-47 - The Freedom Fighter (TurboGrafx16)]
+system = TurboGrafx16
+match = P-47 - The Freedom Fighter (Japan)
+
+[Paranoia (TurboGrafx16)]
+system = TurboGrafx16
+match = Paranoia (Japan)
+
+[Parodius (NES)]
+system = NES
+match = Parodius (Europe)
+
+[Parodius (PSX)]
+system = PSX
+match = Parodius (Europe)
+
+[Parodius (SNES)]
+system = SNES
+match = Parodius (Europe)
+
+[Parodius Da! - Shinwa kara Owarai e (TurboGrafx16)]
+system = TurboGrafx16
+match = Parodius Da! - Shinwa kara Owarai e (Japan)
+
+[PC Denjin - Punkic Cyborgs (TurboGrafx16)]
+system = TurboGrafx16
+match = PC Denjin - Punkic Cyborgs (Japan)
+
+[PC Genjin - Pithecanthropus Computerurus (TurboGrafx16)]
+system = TurboGrafx16
+match = PC Genjin - Pithecanthropus Computerurus (Japan)
+
+[PC Genjin 3 - Pithecanthropus Computerurus (TurboGrafx16)]
+system = TurboGrafx16
+match = PC Genjin 3 - Pithecanthropus Computerurus (Japan)
+
+[Phalanx (SNES)]
+system = SNES
+match = Phalanx (USA)
+
+[Phelios (Genesis)]
+system = Genesis
+match = Phelios (USA)
+
+[Philosoma (PSX)]
+system = PSX
+match = Philosoma (USA)
+
+[Pop'n Magic (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Pop'n Magic
+
+[Pop'n TwinBee (SNES)]
+system = SNES
+match = Pop'n TwinBee (Europe)
+
+[Power Gate (TurboGrafx16)]
+system = TurboGrafx16
+match = Power Gate (Japan)
+
+[Power Strike (MasterSystem)]
+system = MasterSystem
+match = Power Strike (USA, Europe)
+
+[Power Strike II (MasterSystem)]
+system = MasterSystem
+match = Power Strike II (Europe)
+
+[Prize Fighter (MegaCD)]
+system = MegaCD
+match = Prize Fighter
+
+[Psycho Chaser (TurboGrafx16)]
+system = TurboGrafx16
+match = Psycho Chaser (Japan)
+
+[R-Type (MasterSystem)]
+system = MasterSystem
+match = R-Type (World)
+
+[R-Type (TurboGrafx16)]
+system = TurboGrafx16
+match = R-Type (USA)
+
+[R-Type Complete CD (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = R-Type Complete CD
+
+[R-Type Delta (PSX)]
+system = PSX
+match = R-Type Delta (USA)
+
+[R-Type III: The Third Lightning (SNES)]
+system = SNES
+match = R-Type III: The Third Lightning (USA)
+
+[R-Type Part-1 (TurboGrafx16)]
+system = TurboGrafx16
+match = R-Type Part-1 (Japan)
+
+[R-Type Part-2 (TurboGrafx16)]
+system = TurboGrafx16
+match = R-Type Part-2 (Japan)
+
+[R-Types (PSX)]
+system = PSX
+match = R-Types (USA)
+
+[Rabio Lepus Special (TurboGrafx16)]
+system = TurboGrafx16
+match = Rabio Lepus Special (Japan)
+
+[Racing Aces (MegaCD)]
+system = MegaCD
+match = Racing Aces
+
+[Raiden (TurboGrafx16)]
+system = TurboGrafx16
+match = Raiden (USA)
+
+[Raiden (TurboGrafx16)]
+system = TurboGrafx16
+match = Raiden (Japan)
+
+[Raiden DX (PSX)]
+system = PSX
+match = Raiden DX (Major Wave Series) (Japan)
+
+[Raiden Project- The (PSX)]
+system = PSX
+match = Raiden Project- The (USA)
+
+[Raiden Trad (SNES)]
+system = SNES
+match = Raiden Trad (USA)
+
+[Raycrisis - Series Termination (PSX)]
+system = PSX
+match = Raycrisis - Series Termination (USA)
+
+[RayStorm (PSX)]
+system = PSX
+match = RayStorm (USA)
+
+[RBI Baseball '95 (Sega32X)]
+system = Sega32X
+match = RBI Baseball '95
+
+[Robo Aleste (MegaCD)]
+system = MegaCD
+match = Robo Aleste (USA)
+
+[Robodemons (NES)]
+system = NES
+match = Robodemons (USA) (Unl)
+
+[S.C.A.T. - Special Cybernetic Attack Team (NES)]
+system = NES
+match = S.C.A.T. - Special Cybernetic Attack Team (USA)
+
+[Sagaia (Genesis)]
+system = Genesis
+match = Sagaia (USA)
+
+[Sagaia (MasterSystem)]
+system = MasterSystem
+match = Sagaia (Europe)
+
+[Salamander (TurboGrafx16)]
+system = TurboGrafx16
+match = Salamander (Japan)
+
+[Salamander Deluxe Pack Plus (PSX)]
+system = PSX
+match = Salamander Deluxe Pack Plus (J)
+
+[Same! Same! Same! (Genesis)]
+system = Genesis
+match = Same! Same! Same! (Japan)
+
+[Sapo Xule - S.O.S Lagoa Poluida (MasterSystem)]
+system = MasterSystem
+match = Sapo Xule - S.O.S Lagoa Poluida (Brazil)
+
+[Satellite 7 (MasterSystem)]
+system = MasterSystem
+match = Satellite 7 (Japan)
+
+[Scramble Spirits (MasterSystem)]
+system = MasterSystem
+match = Scramble Spirits (Europe)
+
+[SD Gundam - Over Galaxian (PSX)]
+system = PSX
+match = SD Gundam - Over Galaxian (Japan)
+
+[Section-Z (NES)]
+system = NES
+match = Section-Z (USA)
+
+[Seicross (NES)]
+system = NES
+match = Seicross (USA)
+
+[Seirei Senshi Spriggan (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Seirei Senshi Spriggan
+
+[Sexy Parodius (PSX)]
+system = PSX
+match = Sexy Parodius (J)
+
+[Shadow Squadron (Sega32X)]
+system = Sega32X
+match = Shadow Squadron
+
+[Shining Force CD (MegaCD)]
+system = MegaCD
+match = Shining Force CD
+
+[SideArms - Hyper Dyne (TurboGrafx16)]
+system = TurboGrafx16
+match = SideArms - Hyper Dyne (USA)
+
+[SideArms - Hyper Dyne (TurboGrafx16)]
+system = TurboGrafx16
+match = SideArms - Hyper Dyne (Japan)
+
+[Silk Worm (NES)]
+system = NES
+match = Silk Worm (USA)
+
+[Silpheed (MegaCD)]
+system = MegaCD
+match = Silpheed (USA)
+
+[Silver Surfer (NES)]
+system = NES
+match = Silver Surfer (USA)
+
+[Sinistron (TurboGrafx16)]
+system = TurboGrafx16
+match = Sinistron (USA)
+
+[Sky Kid (NES)]
+system = NES
+match = Sky Kid (USA)
+
+[Slap Fight MD (Genesis)]
+system = Genesis
+match = Slap Fight MD (Japan)
+
+[Sol Divide (PSX)]
+system = PSX
+match = Sol Divide (USA)
+
+[Sol-Deace (Genesis)]
+system = Genesis
+match = Sol-Deace (USA)
+
+[Sol-Feace (MegaCD)]
+system = MegaCD
+match = Sol-Feace (USA)
+
+[Soldier Blade - Special Version (TurboGrafx16)]
+system = TurboGrafx16
+match = Soldier Blade - Special Version (Japan)
+
+[Soldier Blade (TurboGrafx16)]
+system = TurboGrafx16
+match = Soldier Blade (USA)
+
+[Soldier Blade (TurboGrafx16)]
+system = TurboGrafx16
+match = Soldier Blade (Japan)
+
+[Sonic CD (MegaCD)]
+system = MegaCD
+match = Sonic CD
+
+[Sonic Wings Special (PSX)]
+system = PSX
+match = Sonic Wings Special
+
+[Soukyu Gurentai - Oubushustugeki (PSX)]
+system = PSX
+match = Soukyu Gurentai - Oubushustugeki (Japan)
+
+[Soulstar (MegaCD)]
+system = MegaCD
+match = Soulstar (USA)
+
+[SoulStar (MegaCD)]
+system = MegaCD
+match = SoulStar
+
+[Space Harrier (TurboGrafx16)]
+system = TurboGrafx16
+match = Space Harrier (Japan)
+
+[Space Invaders - Fukkatsu no Hi (TurboGrafx16)]
+system = TurboGrafx16
+match = Space Invaders - Fukkatsu no Hi (Japan)
+
+[Space Invaders (PSX)]
+system = PSX
+match = Space Invaders (USA)
+
+[Space Invaders 2000 (PSX)]
+system = PSX
+match = Space Invaders 2000 (Japan)
+
+[Space Invaders X (PSX)]
+system = PSX
+match = Space Invaders X (Japan)
+
+[Space Invaders: The Original Game (SNES)]
+system = SNES
+match = Space Invaders: The Original Game (USA)
+
+[Space Megaforce (SNES)]
+system = SNES
+match = Space Megaforce (USA)
+
+[Space Shot (PSX)]
+system = PSX
+match = Space Shot (USA)
+
+[Spriggan Mark 2 - Re Terraform Project (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Spriggan Mark 2 - Re Terraform Project
+
+[Sqoon (NES)]
+system = NES
+match = Sqoon (USA)
+
+[Stahlfeder (PSX)]
+system = PSX
+match = Stahlfeder (Japan)
+
+[Star Force (NES)]
+system = NES
+match = Star Force (USA)
+
+[Star Fox (SNES)]
+system = SNES
+match = Star Fox (USA)
+
+[Star Fox (SNES)]
+system = SNES
+match = Star Fox (USA) (Super Weekend Competition)
+
+[Star Parodier (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Star Parodier
+
+[Star Soldier (NES)]
+system = NES
+match = Star Soldier (USA)
+
+[Star Wars Arcade (Sega32X)]
+system = Sega32X
+match = Star Wars Arcade
+
+[Starblade (MegaCD)]
+system = MegaCD
+match = Starblade (USA)
+
+[Starship Hector (NES)]
+system = NES
+match = Starship Hector (USA)
+
+[Steam-Heart's (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Steam-Heart's
+
+[Steel Empire (Genesis)]
+system = Genesis
+match = Steel Empire (USA)
+
+[Stellar-Fire (MegaCD)]
+system = MegaCD
+match = Stellar-Fire (USA)
+
+[Stinger (NES)]
+system = NES
+match = Stinger (USA)
+
+[Strike Gunner S.T.G (SNES)]
+system = SNES
+match = Strike Gunner S.T.G (USA)
+
+[Strikers 1945 (PSX)]
+system = PSX
+match = Strikers 1945 (USA)
+
+[Strikers 1945 II (PSX)]
+system = PSX
+match = Strikers 1945 II (Japan)
+
+[Submarine Attack (MasterSystem)]
+system = MasterSystem
+match = Submarine Attack (Europe)
+
+[Super Darius (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Super Darius
+
+[Super Darius II (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Super Darius II
+
+[Super Fantasy Zone (Genesis)]
+system = Genesis
+match = Super Fantasy Zone (Europe)
+
+[Super Nova (SNES)]
+system = SNES
+match = Super Nova (USA)
+
+[Super R-Type (SNES)]
+system = SNES
+match = Super R-Type (USA)
+
+[Super Star Soldier (TurboGrafx16)]
+system = TurboGrafx16
+match = Super Star Soldier (USA)
+
+[Super Star Soldier (TurboGrafx16)]
+system = TurboGrafx16
+match = Super Star Soldier (Japan)
+
+[Super Xevious - Gump no Nazo (NES)]
+system = NES
+match = Super Xevious - Gump no Nazo (Japan)
+
+[Sylphia (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Sylphia
+
+[Syvalion (SNES)]
+system = SNES
+match = Syvalion (Europe)
+
+[Task Force Harrier EX (Genesis)]
+system = Genesis
+match = Task Force Harrier EX (USA)
+
+[Tatsujin (TurboGrafx16)]
+system = TurboGrafx16
+match = Tatsujin (Japan) (Proto)
+
+[Tatsujin (TurboGrafx16)]
+system = TurboGrafx16
+match = Tatsujin (Japan)
+
+[Tempo (Sega32X)]
+system = Sega32X
+match = Tempo
+
+[Terminator, The (MegaCD)]
+system = MegaCD
+match = Terminator, The
+
+[Terra Cresta (NES)]
+system = NES
+match = Terra Cresta (USA)
+
+[Terra Cresta II - Mandoraa no Gyakushuu (TurboGrafx16)]
+system = TurboGrafx16
+match = Terra Cresta II - Mandoraa no Gyakushuu (Japan)
+
+[Thunder Blade (TurboGrafx16)]
+system = TurboGrafx16
+match = Thunder Blade (Japan)
+
+[Thunder Force II (Genesis)]
+system = Genesis
+match = Thunder Force II (USA, Europe)
+
+[Thunder Force III (Genesis)]
+system = Genesis
+match = Thunder Force III (Japan, USA)
+
+[Thunder Force IV (Genesis)]
+system = Genesis
+match = Thunder Force IV (Japan)
+
+[Thunder Spirits (SNES)]
+system = SNES
+match = Thunder Spirits (USA)
+
+[Thunderbirds (NES)]
+system = NES
+match = Thunderbirds (USA)
+
+[Thundercade (NES)]
+system = NES
+match = Thundercade (USA)
+
+[Thunderforce V - Perfect System (PSX)]
+system = PSX
+match = Thunderforce V - Perfect System (Japan)
+
+[Tiger-Heli (NES)]
+system = NES
+match = Tiger-Heli (USA)
+
+[Time Bokan Series - Bokan to Ippatsu! Doronboo (PSX)]
+system = PSX
+match = Time Bokan Series - Bokan to Ippatsu! Doronboo (Japan)
+
+[Time Bokan Series - Bokandesuyo (PSX)]
+system = PSX
+match = Time Bokan Series - Bokandesuyo (Japan)
+
+[Titan Warriors (NES)]
+system = NES
+match = Titan Warriors (USA) (Proto)
+
+[Toaplan Shooting Battle 1 (PSX)]
+system = PSX
+match = Toaplan Shooting Battle 1 (Japan)
+
+[Toilet Kids (TurboGrafx16)]
+system = TurboGrafx16
+match = Toilet Kids (Japan)
+
+[Toy Shop Boys (TurboGrafx16)]
+system = TurboGrafx16
+match = Toy Shop Boys (Japan)
+
+[TransBot (MasterSystem)]
+system = MasterSystem
+match = TransBot (USA, Europe)
+
+[Trouble Shooter (Genesis)]
+system = Genesis
+match = Trouble Shooter (USA)
+
+[Twin Cobra - Desert Attack Helicopter (Genesis)]
+system = Genesis
+match = Twin Cobra - Desert Attack Helicopter (USA)
+
+[Twin Cobra (NES)]
+system = NES
+match = Twin Cobra (USA)
+
+[Twin Eagle (NES)]
+system = NES
+match = Twin Eagle (USA)
+
+[TwinBee (NES)]
+system = NES
+match = TwinBee (Japan)
+
+[Two-Tenkaku (PSX)]
+system = PSX
+match = Two-Tenkaku (Japan)
+
+[U.N. Squadron (SNES)]
+system = SNES
+match = U.N. Squadron (USA)
+
+[Uchuu Keibitai SDF (NES)]
+system = NES
+match = Uchuu Keibitai SDF (Japan)
+
+[Uchuu Senkan Gomora (Genesis)]
+system = Genesis
+match = Uchuu Senkan Gomora (Japan)
+
+[Uzu Keobukseon (Genesis)]
+system = Genesis
+match = Uzu Keobukseon (Korea)
+
+[V-V (Genesis)]
+system = Genesis
+match = V-V (Japan)
+
+[Vapor Trail (Genesis)]
+system = Genesis
+match = Vapor Trail (USA)
+
+[Verytex (Genesis)]
+system = Genesis
+match = Verytex (Japan)
+
+[Viewpoint (Genesis)]
+system = Genesis
+match = Viewpoint (USA)
+
+[Viewpoint (PSX)]
+system = PSX
+match = Viewpoint (USA)
+
+[Volguard II (NES)]
+system = NES
+match = Volguard II (Japan)
+
+[Warhawk - The Red Mercury Missions (PSX)]
+system = PSX
+match = Warhawk - The Red Mercury Missions
+
+[Whip Rush (Genesis)]
+system = Genesis
+match = Whip Rush (USA)
+
+[Wild Woody (MegaCD)]
+system = MegaCD
+match = Wild Woody
+
+[Wings of Wor (Genesis)]
+system = Genesis
+match = Wings of Wor (USA)
+
+[Wonder 3 - Arcade Gears (PSX)]
+system = PSX
+match = Wonder 3 - Arcade Gears
+
+[WWF Rage in the Cage (MegaCD)]
+system = MegaCD
+match = WWF Rage in the Cage
+
+[X2 - No Relief (PSX)]
+system = PSX
+match = X2 - No Relief (Japan)
+
+[Xak (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Xak
+
+[Xak III - The Eternal Recurrence (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Xak III - The Eternal Recurrence
+
+[XDR - X-Dazedly-Ray (Genesis)]
+system = Genesis
+match = XDR - X-Dazedly-Ray (Japan)
+
+[Xenon 2 - Megablast (Genesis)]
+system = Genesis
+match = Xenon 2 - Megablast (Europe)
+
+[Xenon 2 - Megablast (MasterSystem)]
+system = MasterSystem
+match = Xenon 2 - Megablast (Europe)
+
+[Xevious - The Avenger (NES)]
+system = NES
+match = Xevious - The Avenger (USA)
+
+[Xevious 3D-G+ (PSX)]
+system = PSX
+match = Xevious 3D-G+ (USA)
+
+[Ys IV - The Dawn of Ys (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Ys IV - The Dawn of Ys (English Text + Dub)
+
+[Zanac (NES)]
+system = NES
+match = Zanac (USA)
+
+[Zanac X Zanac (PSX)]
+system = PSX
+match = Zanac X Zanac
+
+[Zaxxon's Motherbase 2000 (Sega32X)]
+system = Sega32X
+match = Zaxxon's Motherbase 2000
+
+[Zero Wing (Genesis)]
+system = Genesis
+match = Zero Wing (Europe)
+
+[Zombie Nation (NES)]
+system = NES
+match = Zombie Nation (USA)
+
+[Zunou Senkan Galg (NES)]
+system = NES
+match = Zunou Senkan Galg (Japan)
+
