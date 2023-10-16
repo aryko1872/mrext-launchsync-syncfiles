@@ -1,9 +1,9 @@
 name = Shmups
-author = Me
+author = aryko1872
 updated = 2023-10-16
 
-[1941 - Counter Attack (TurboGrafx16)]
-system = TurboGrafx16
+[1941 - Counter Attack (SuperGrafx)]
+system = SuperGrafx
 match = 1941 - Counter Attack (Japan)
 
 [1942 (NES)]
@@ -66,8 +66,8 @@ match = Air Zonk (USA)
 system = PSX
 match = Airgrave (Japan)
 
-[Aldynes (TurboGrafx16)]
-system = TurboGrafx16
+[Aldynes (SuperGrafx)]
+system = SuperGrafx
 match = Aldynes (Japan)
 
 [Alpha Mission (NES)]
@@ -150,17 +150,17 @@ match = Battle Squadron (USA, Europe)
 system = Genesis
 match = Bio Hazard Battle (USA, Europe)
 
-[BioMetal (SNES)]
+[Bio Metal (SNES)]
 system = SNES
-match = BioMetal (USA)
+match = Bio Metal (USA)
 
 [Blade Eagle (MasterSystem)]
 system = MasterSystem
 match = Blade Eagle (World)
 
-[BlaZeon: The Bio-Cyborg Challenge (SNES)]
+[BlaZeon - The Bio-Cyborg Challenge (SNES)]
 system = SNES
-match = BlaZeon: The Bio-Cyborg Challenge (USA)
+match = BlaZeon - The Bio-Cyborg Challenge (USA)
 
 [Blazing Lazers (TurboGrafx16)]
 system = TurboGrafx16
@@ -190,9 +190,9 @@ match = Captain Skyhawk (USA)
 system = Arcade
 match = Carrier Air Wing (W, 901012)
 
-[Choplifter III: Rescue & Survive (SNES)]
+[Choplifter III - Rescue & Survive (SNES)]
 system = SNES
-match = Choplifter III: Rescue & Survive (USA)
+match = Choplifter III - Rescue & Survive (USA)
 
 [Chou Aniki (TurboGrafx16CD)]
 system = TurboGrafx16CD
@@ -310,9 +310,9 @@ match = Defender (Red Label)
 system = NES
 match = Defender II (USA)
 
-[Desert Strike: Return to the Gulf (SNES)]
+[Desert Strike - Return to the Gulf (SNES)]
 system = SNES
-match = Desert Strike: Return to the Gulf (USA)
+match = Desert Strike - Return to the Gulf (USA)
 
 [Detana Twinbee Yahho! Deluxe Pack (PSX)]
 system = PSX
@@ -436,23 +436,15 @@ match = Final Blaster (Japan)
 
 [Final Soldier (TurboGrafx16)]
 system = TurboGrafx16
-match = Final Soldier (J)
+match = Final Soldier (Japan)
+
+[Final Soldier Special Version (TurboGrafx16)]
+system = TurboGrafx16
+match = Final Soldier (Japan) (Special Version)
 
 [Final Soldier (TurboGrafx16)]
 system = TurboGrafx16
 match = Final Soldier (Japan)
-
-[Final Soldier (TurboGrafx16)]
-system = TurboGrafx16
-match = Final Soldier (Japan) (Special Version)
-
-[Final Soldier Sounds (TurboGrafx16)]
-system = TurboGrafx16
-match = Final Soldier Sounds
-
-[Final Soldier Special Version (TurboGrafx16)]
-system = TurboGrafx16
-match = Final Soldier Special Version (J)
 
 [Finger Flashing (PSX)]
 system = PSX
@@ -802,9 +794,9 @@ match = Parodius (Europe)
 system = PSX
 match = Parodius (Europe)
 
-[Parodius (SNES)]
+[Parodius - Non-Sense Fantasy (SNES)]
 system = SNES
-match = Parodius (Europe)
+match = Parodius - Non-Sense Fantasy (Europe)
 
 [Parodius Da! - Shinwa kara Owarai e (TurboGrafx16)]
 system = TurboGrafx16
@@ -886,9 +878,9 @@ match = R-Type Delta (USA)
 system = Arcade
 match = R-Type II (W)
 
-[R-Type III: The Third Lightning (SNES)]
+[R-Type III - The Third Lightning (SNES)]
 system = SNES
-match = R-Type III: The Third Lightning (USA)
+match = R-Type III - The Third Lightning (USA)
 
 [R-Type Leo (Arcade)]
 system = Arcade
@@ -1106,9 +1098,9 @@ match = Space Invaders 2000 (Japan)
 system = PSX
 match = Space Invaders X (Japan)
 
-[Space Invaders: The Original Game (SNES)]
+[Space Invaders - The Original Game (SNES)]
 system = SNES
-match = Space Invaders: The Original Game (USA)
+match = Space Invaders - The Original Game (USA)
 
 [Space Megaforce (SNES)]
 system = SNES
