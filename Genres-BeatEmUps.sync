@@ -1,0 +1,315 @@
+name = Beat 'em ups
+author = Me
+updated = 2023-10-16
+
+[Alien vs. Predator (Arcade)]
+system = Arcade
+match = Alien vs. Predator (JP, 940520)
+
+[Batman Forever - The Arcade Game (PSX)]
+system = PSX
+match = Batman Forever - The Arcade Game
+
+[Battle Circuit (Arcade)]
+system = Arcade
+match = Battle Circuit (EU, 970319)
+
+[Battletoads (Genesis)]
+system = Genesis
+match = Battletoads (World)
+
+[Battletoads & Double Dragon (Genesis)]
+system = Genesis
+match = Battletoads & Double Dragon (USA)
+
+[Bishoujo Senshi Sailor Moon - Another Story (SNES)]
+system = SNES
+match = Bishoujo Senshi Sailor Moon - Another Story (J) [T+Eng1.00_BST]
+
+[Bishoujo Senshi Sailor Moon (Genesis)]
+system = Genesis
+match = Bishoujo Senshi Sailor Moon (Japan)
+
+[Bishoujo Senshi Sailor Moon R (SNES)]
+system = SNES
+match = Bishoujo Senshi Sailor Moon R (J) [T+Eng1.00_FuSoYa]
+
+[Blade Master (Arcade)]
+system = Arcade
+match = Blade Master (W)
+
+[Cadillacs and Dinosaurs (Arcade)]
+system = Arcade
+match = Cadillacs and Dinosaurs (W, 930201)
+
+[Captain Commando (Arcade)]
+system = Arcade
+match = Captain Commando (JP, 920928)
+
+[Comix Zone (Genesis)]
+system = Genesis
+match = Comix Zone (USA)
+
+[Crime Fighters (Arcade)]
+system = Arcade
+match = Crime Fighters (JP, 2P)
+
+[Double Dragon II- The Revenge (Arcade)]
+system = Arcade
+match = Double Dragon II- The Revenge (JP)
+
+[Double Dragon (Arcade)]
+system = Arcade
+match = Double Dragon (JP)
+
+[Dungeons & Dragons- Shadow over Mystara (Arcade)]
+system = Arcade
+match = Dungeons & Dragons- Shadow over Mystara (EU, 960619)
+
+[Dungeons & Dragons- Tower of Doom (Arcade)]
+system = Arcade
+match = Dungeons & Dragons- Tower of Doom (EU, 940412)
+
+[Dynamite Dux (Arcade)]
+system = Arcade
+match = Dynamite Dux (W, Set 3)
+
+[Dynasty Wars (Arcade)]
+system = Arcade
+match = Dynasty Wars (US, 89624B)
+
+[Fighting Force (PSX)]
+system = PSX
+match = Fighting Force
+
+[Final Fight (SNES)]
+system = SNES
+match = Final Fight (USA)
+
+[Final Fight 2 (SNES)]
+system = SNES
+match = Final Fight 2 (USA)
+
+[Final Fight 3 (SNES)]
+system = SNES
+match = Final Fight 3 (USA)
+
+[Final Fight Guy (SNES)]
+system = SNES
+match = Final Fight Guy (USA)
+
+[Final Fight (Arcade)]
+system = Arcade
+match = Final Fight (JP, 900613)
+
+[Food Fight (Arcade)]
+system = Arcade
+match = Food Fight (Rev 3)
+
+[Gaia Crusaders(Arcade)]
+system = Arcade
+match = Gaia Crusaders
+
+[Gauntlet Legends (PSX)]
+system = PSX
+match = Gauntlet Legends
+
+[Gekido - Urban Fighters (PSX)]
+system = PSX
+match = Gekido - Urban Fighters
+
+[Golden Axe (Arcade)]
+system = Arcade
+match = Golden Axe (US, Set 6)
+
+[Hook (Arcade)]
+system = Arcade
+match = Hook (W)
+
+[Incredible Hulk, The - The Pantheon Saga (PSX)]
+system = PSX
+match = Incredible Hulk, The - The Pantheon Saga
+
+[Jackie Chan Stuntmaster (PSX)]
+system = PSX
+match = Jackie Chan Stuntmaster
+
+[Knights of the Round (Arcade)]
+system = Arcade
+match = Knights of the Round (W, 911127)
+
+[Kung-Fu Master (Arcade)]
+system = Arcade
+match = Kung-Fu Master (W)
+
+[Legend of Hero Tonma (Arcade)]
+system = Arcade
+match = Legend of Hero Tonma (JP)
+
+[Marvel Super Heroes in War of the Gems (SNES)]
+system = SNES
+match = Marvel Super Heroes in War of the Gems (USA)
+
+[Mighty Morphin Power Rangers - The Movie (Genesis)]
+system = Genesis
+match = Mighty Morphin Power Rangers - The Movie (USA)
+
+[Mortal Kombat - Special Forces (PSX)]
+system = PSX
+match = Mortal Kombat - Special Forces
+
+[Mortal Kombat Mythologies - Sub-Zero (PSX)]
+system = PSX
+match = Mortal Kombat Mythologies - Sub-Zero
+
+[My Hero (Arcade)]
+system = Arcade
+match = My Hero (US, not Encrypted)
+
+[Ninja Baseball Bat Man (Arcade)]
+system = Arcade
+match = Ninja Baseball Bat Man (W)
+
+[Ninja Spirit (Arcade)]
+system = Arcade
+match = Ninja Spirit (JP)
+
+[Renegade (Arcade)]
+system = Arcade
+match = Renegade (US) [bl]
+
+[Riot City (Arcade)]
+system = Arcade
+match = Riot City (JP)
+
+[Spawn - The Eternal (PSX)]
+system = PSX
+match = Spawn - The Eternal
+
+[Spider-Man - Separation Anxiety (SNES)]
+system = SNES
+match = Spider-Man - Separation Anxiety (E)
+
+[Spider-Man (Genesis)]
+system = Genesis
+match = Spider-Man (USA, Europe) (Acclaim)
+
+[Spider-Man and the X-Men in Arcade's Revenge (GameGear)]
+system = GameGear
+match = Spider-Man and the X-Men in Arcade's Revenge (USA)
+
+[Spider-Man and Venom - Maximum Carnage (Genesis)]
+system = Genesis
+match = Spider-Man and Venom - Maximum Carnage (World)
+
+[Spider-Man and Venom - Separation Anxiety (Genesis)]
+system = Genesis
+match = Spider-Man and Venom - Separation Anxiety (USA, Europe)
+
+[Spider-Man and X-Men - Arcade's Revenge (Genesis)]
+system = Genesis
+match = Spider-Man and X-Men - Arcade's Revenge (USA, Europe)
+
+[Spider-Man-Venom - Maximum Carnage (SNES)]
+system = SNES
+match = Spider-Man-Venom - Maximum Carnage (USA)
+
+[Spider-Man-X-Men - Arcade's Revenge (SNES)]
+system = SNES
+match = Spider-Man-X-Men - Arcade's Revenge (USA)
+
+[Splatterhouse (TurboGrafx16)]
+system = TurboGrafx16
+match = Splatterhouse (USA)
+
+[Splatterhouse 2 (Genesis)]
+system = Genesis
+match = Splatterhouse 2 (USA)
+
+[Splatterhouse 3 (Genesis)]
+system = Genesis
+match = Splatterhouse 3 (USA)
+
+[Star Wars - Episode I - Jedi Power Battles (PSX)]
+system = PSX
+match = Star Wars - Episode I - Jedi Power Battles
+
+[Streets of Rage (Genesis)]
+system = Genesis
+match = Streets of Rage (World)
+
+[Streets of Rage 2 (Genesis)]
+system = Genesis
+match = Streets of Rage 2 (USA)
+
+[Streets of Rage 3 (Genesis)]
+system = Genesis
+match = Streets of Rage 3 (USA)
+
+[T'ai Fu - Wrath of the Tiger (PSX)]
+system = PSX
+match = T'ai Fu - Wrath of the Tiger
+
+[Teenage Mutant Ninja Turtles - Return of the Shredder (Genesis)]
+system = Genesis
+match = Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)
+
+[Teenage Mutant Ninja Turtles - The Hyperstone Heist (Genesis)]
+system = Genesis
+match = Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
+
+[Teenage Mutant Ninja Turtles III - The Manhattan Project (NES)]
+system = NES
+match = Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
+
+[Teenage Mutant Ninja Turtles (Arcade)]
+system = Arcade
+match = Teenage Mutant Ninja Turtles (JP, 2P, Ver. 1)
+
+[The King of Dragons (Arcade)]
+system = Arcade
+match = The King of Dragons (W, 910805)
+
+[The Punisher (Arcade)]
+system = Arcade
+match = The Punisher (W, 930422)
+
+[The Simpsons (Arcade)]
+system = Arcade
+match = The Simpsons (JP, 2P)
+
+[Thunder Heroes(Arcade)]
+system = Arcade
+match = Thunder Heroes
+
+[Two Crude Dudes (Genesis)]
+system = Genesis
+match = Two Crude Dudes (USA)
+
+[Undercover Cops - Alpha Renewal Version (Arcade)]
+system = Arcade
+match = Undercover Cops - Alpha Renewal Version (W)
+
+[Undercover Cops (Arcade)]
+system = Arcade
+match = Undercover Cops (JP)
+
+[Warriors of Fate (Arcade)]
+system = Arcade
+match = Warriors of Fate (W, 921031)
+
+[Wolverine - Adamantium Rage (SNES)]
+system = SNES
+match = Wolverine - Adamantium Rage (USA)
+
+[X-Men - Mutant Apocalypse (SNES)]
+system = SNES
+match = X-Men - Mutant Apocalypse (USA)
+
+[X-Men (Genesis)]
+system = Genesis
+match = X-Men (USA)
+
+[X-Men 2 - Clone Wars (Genesis)]
+system = Genesis
+match = X-Men 2 - Clone Wars (USA, Europe)
