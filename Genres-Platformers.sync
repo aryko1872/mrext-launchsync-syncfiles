@@ -1,0 +1,239 @@
+name = Platformers
+author = aryko1872
+updated = 2023-10-17
+
+[Alex Kidd- The Lost Stars (Arcade)]
+system = Arcade
+match = Alex Kidd- The Lost Stars (W, S16A, Set 2)
+
+[Amazing Spider-Man, The - Web of Fire (Sega32X)]
+system = Sega32X
+match = Amazing Spider-Man, The - Web of Fire
+
+[Astal (Saturn)]
+system = Saturn
+match = Astal (USA)
+
+[Bang Bang Busters (NeoGeo)]
+system = NeoGeo
+match = Bang Bang Busters
+
+[Blue's Journey (NeoGeo)]
+system = NeoGeo
+match = Blue's Journey
+
+[Bubble Bobble (Arcade)]
+system = Arcade
+match = Bubble Bobble (JP, Ver 0.1)
+
+[Bug Too! (Saturn)]
+system = Saturn
+match = Bug Too! (USA)
+
+[Bug! (Saturn)]
+system = Saturn
+match = Bug! (USA)
+
+[Chameleon (Arcade)]
+system = Arcade
+match = Chameleon
+
+[Clockwork Knight (Saturn)]
+system = Saturn
+match = Clockwork Knight (USA)
+
+[Clockwork Knight 2 (Saturn)]
+system = Saturn
+match = Clockwork Knight 2 (USA)
+
+[Flicky (Arcade)]
+system = Arcade
+match = Flicky (128k Ver)
+
+[Frogger (PSX)]
+system = PSX
+match = Frogger
+
+[Frogger 2 - Swampy's Revenge (PSX)]
+system = PSX
+match = Frogger 2 - Swampy's Revenge
+
+[Heart of the Alien - Out of This World Parts I and II (MegaCD)]
+system = MegaCD
+match = Heart of the Alien - Out of This World Parts I and II
+
+[Joust (Arcade)]
+system = Arcade
+match = Joust
+
+[Jungle King (Arcade)]
+system = Arcade
+match = Jungle King (JP)
+
+[Keio Flying Squadron 2 (Saturn)]
+system = Saturn
+match = Keio Flying Squadron 2 (Europe)
+
+[Knuckles' Chaotix (Sega32X)]
+system = Sega32X
+match = Knuckles' Chaotix
+
+[Konek Gorbunok (Arcade)]
+system = Arcade
+match = Konek Gorbunok
+
+[LEGO Island 2 - The Brickster's Revenge (PSX)]
+system = PSX
+match = LEGO Island 2 - The Brickster's Revenge
+
+[LEGO Rock Raiders (PSX)]
+system = PSX
+match = LEGO Rock Raiders
+
+[Lode Runner (Arcade)]
+system = Arcade
+match = Lode Runner (Set 1)
+
+[Lode Runner II- The Bungeling Strikes Back (Arcade)]
+system = Arcade
+match = Lode Runner II- The Bungeling Strikes Back
+
+[Lode Runner III- The Golden Labyrinth (Arcade)]
+system = Arcade
+match = Lode Runner III- The Golden Labyrinth
+
+[Lode Runner IV- Teikoku Karano Dasshutsu (Arcade)]
+system = Arcade
+match = Lode Runner IV- Teikoku Karano Dasshutsu (JP)
+
+[Magician Lord (NeoGeo)]
+system = NeoGeo
+match = Magician Lord
+
+[Mario Bros. (Arcade)]
+system = Arcade
+match = Mario Bros. (US, Rev G)
+
+[Ms. Pac-Man - Maze Madness (PSX)]
+system = PSX
+match = Ms. Pac-Man - Maze Madness
+
+[Muppet Monster Adventure (PSX)]
+system = PSX
+match = Muppet Monster Adventure
+
+[Nightmare in the Dark (NeoGeo)]
+system = NeoGeo
+match = Nightmare in the Dark
+
+[Nights Into Dreams... (Saturn)]
+system = Saturn
+match = Nights Into Dreams... (USA)
+
+[Pac-Man World (PSX)]
+system = PSX
+match = Pac-Man World
+
+[Pandemonium! 2 (PSX)]
+system = PSX
+match = Pandemonium! 2
+
+[Pest Place (Arcade)]
+system = Arcade
+match = Pest Place
+
+[Pirate Pete (Arcade)]
+system = Arcade
+match = Pirate Pete
+
+[Pitfall 3D - Beyond the Jungle (PSX)]
+system = PSX
+match = Pitfall 3D - Beyond the Jungle
+
+[Pitfall II (Arcade)]
+system = Arcade
+match = Pitfall II
+
+[Ponpoko (Arcade)]
+system = Arcade
+match = Ponpoko
+
+[Popeye (Arcade)]
+system = Arcade
+match = Popeye (Rev D)
+
+[S.O.S. (Arcade)]
+system = Arcade
+match = S.O.S.
+
+[Scud - The Disposable Assassin (Saturn)]
+system = Saturn
+match = Scud - The Disposable Assassin (USA)
+
+[Shinobi Legions (Saturn)]
+system = Saturn
+match = Shinobi Legions (USA)
+
+[Snap Jack (Arcade)]
+system = Arcade
+match = Snap Jack
+
+[Sonic 3D Blast (Saturn)]
+system = Saturn
+match = Sonic 3D Blast (USA)
+
+[Sonic CD (MegaCD)]
+system = MegaCD
+match = Sonic CD
+
+[Sonic Jam (Saturn)]
+system = Saturn
+match = Sonic Jam (USA)
+
+[Sonic R (Saturn)]
+system = Saturn
+match = Sonic R (USA)
+
+[Spelunker (Arcade)]
+system = Arcade
+match = Spelunker
+
+[Spelunker II - 23 no Kagi (Arcade)]
+system = Arcade
+match = Spelunker II - 23 no Kagi (JP)
+
+[Spinmaster (NeoGeo)]
+system = NeoGeo
+match = Spinmaster
+
+[Tapper (Arcade)]
+system = Arcade
+match = Tapper (Budweiser, 840127)
+
+[Tempo (Sega32X)]
+system = Sega32X
+match = Tempo
+
+[The NewZealand Story (Arcade)]
+system = Arcade
+match = The NewZealand Story (W, old version)
+
+[Timber (Arcade)]
+system = Arcade
+match = Timber
+
+[Top Hunter: Roddy & Cathy (NeoGeo)]
+system = NeoGeo
+match = Top Hunter: Roddy & Cathy
+
+[Treasures of the Deep (PSX)]
+system = PSX
+match = Treasures of the Deep
+
+[Wild Woody (MegaCD)]
+system = MegaCD
+match = Wild Woody
+
+[ZuPaPa! (NeoGeo)]
+system = NeoGeo
+match = ZuPaPa!

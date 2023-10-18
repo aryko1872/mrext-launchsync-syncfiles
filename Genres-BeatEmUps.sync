@@ -1,6 +1,10 @@
 name = Beat 'em ups
-author = Me
-updated = 2023-10-16
+author = aryko1872
+updated = 2023-10-17
+
+[Adventures of Batman & Robin (MegaCD)]
+system = MegaCD
+match = Adventures of Batman & Robin
 
 [Alien vs. Predator (Arcade)]
 system = Arcade
@@ -38,6 +42,10 @@ match = Bishoujo Senshi Sailor Moon R (J) [T+Eng1.00_FuSoYa]
 system = Arcade
 match = Blade Master (W)
 
+[Burning Fight (NeoGeo)]
+system = NeoGeo
+match = Burning Fight
+
 [Cadillacs and Dinosaurs (Arcade)]
 system = Arcade
 match = Cadillacs and Dinosaurs (W, 930201)
@@ -54,13 +62,17 @@ match = Comix Zone (USA)
 system = Arcade
 match = Crime Fighters (JP, 2P)
 
-[Double Dragon II- The Revenge (Arcade)]
-system = Arcade
-match = Double Dragon II- The Revenge (JP)
+[Die Hard Arcade (Saturn)]
+system = Saturn
+match = Die Hard Arcade (USA)
 
 [Double Dragon (Arcade)]
 system = Arcade
 match = Double Dragon (JP)
+
+[Double Dragon II- The Revenge (Arcade)]
+system = Arcade
+match = Double Dragon II- The Revenge (JP)
 
 [Dungeons & Dragons- Shadow over Mystara (Arcade)]
 system = Arcade
@@ -78,9 +90,17 @@ match = Dynamite Dux (W, Set 3)
 system = Arcade
 match = Dynasty Wars (US, 89624B)
 
+[Eight Man (NeoGeo)]
+system = NeoGeo
+match = Eight Man
+
 [Fighting Force (PSX)]
 system = PSX
 match = Fighting Force
+
+[Final Fight (Arcade)]
+system = Arcade
+match = Final Fight (JP, 900613)
 
 [Final Fight (SNES)]
 system = SNES
@@ -97,10 +117,6 @@ match = Final Fight 3 (USA)
 [Final Fight Guy (SNES)]
 system = SNES
 match = Final Fight Guy (USA)
-
-[Final Fight (Arcade)]
-system = Arcade
-match = Final Fight (JP, 900613)
 
 [Food Fight (Arcade)]
 system = Arcade
@@ -134,6 +150,10 @@ match = Incredible Hulk, The - The Pantheon Saga
 system = PSX
 match = Jackie Chan Stuntmaster
 
+[Kaizou Choujin Shubibinman 3 - Ikai no Princess (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Kaizou Choujin Shubibinman 3 - Ikai no Princess
+
 [Knights of the Round (Arcade)]
 system = Arcade
 match = Knights of the Round (W, 911127)
@@ -145,6 +165,10 @@ match = Kung-Fu Master (W)
 [Legend of Hero Tonma (Arcade)]
 system = Arcade
 match = Legend of Hero Tonma (JP)
+
+[Legend of Success Joe (NeoGeo)]
+system = NeoGeo
+match = Legend of Success Joe
 
 [Marvel Super Heroes in War of the Gems (SNES)]
 system = SNES
@@ -162,6 +186,10 @@ match = Mortal Kombat - Special Forces
 system = PSX
 match = Mortal Kombat Mythologies - Sub-Zero
 
+[Mutation Nation (NeoGeo)]
+system = NeoGeo
+match = Mutation Nation
+
 [My Hero (Arcade)]
 system = Arcade
 match = My Hero (US, not Encrypted)
@@ -169,6 +197,10 @@ match = My Hero (US, not Encrypted)
 [Ninja Baseball Bat Man (Arcade)]
 system = Arcade
 match = Ninja Baseball Bat Man (W)
+
+[Ninja Combat (NeoGeo)]
+system = NeoGeo
+match = Ninja Combat
 
 [Ninja Spirit (Arcade)]
 system = Arcade
@@ -181,6 +213,22 @@ match = Renegade (US) [bl]
 [Riot City (Arcade)]
 system = Arcade
 match = Riot City (JP)
+
+[Robo Army (NeoGeo)]
+system = NeoGeo
+match = Robo Army
+
+[Sengoku (NeoGeo)]
+system = NeoGeo
+match = Sengoku
+
+[Sengoku 2 (NeoGeo)]
+system = NeoGeo
+match = Sengoku 2
+
+[Sengoku 3 (NeoGeo)]
+system = NeoGeo
+match = Sengoku 3
 
 [Spawn - The Eternal (PSX)]
 system = PSX
@@ -258,13 +306,13 @@ match = Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)
 system = Genesis
 match = Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
 
-[Teenage Mutant Ninja Turtles III - The Manhattan Project (NES)]
-system = NES
-match = Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
-
 [Teenage Mutant Ninja Turtles (Arcade)]
 system = Arcade
 match = Teenage Mutant Ninja Turtles (JP, 2P, Ver. 1)
+
+[Teenage Mutant Ninja Turtles III - The Manhattan Project (NES)]
+system = NES
+match = Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
 
 [The King of Dragons (Arcade)]
 system = Arcade
@@ -277,6 +325,14 @@ match = The Punisher (W, 930422)
 [The Simpsons (Arcade)]
 system = Arcade
 match = The Simpsons (JP, 2P)
+
+[Guardian Heroes (Saturn)]
+system = Saturn
+match = Guardian Heroes (USA)
+
+[Three Dirty Dwarves (Saturn)]
+system = Saturn
+match = Three Dirty Dwarves (USA)
 
 [Thunder Heroes(Arcade)]
 system = Arcade

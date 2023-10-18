@@ -1,0 +1,103 @@
+name = Sonic
+author = aryko1872
+updated = 2023-10-17
+
+[Sonic & Knuckles (Genesis)]
+system = Genesis
+match = Sonic & Knuckles
+
+[Sonic & Knuckles + Sonic the Hedgehog (Genesis)]
+system = Genesis
+match = Sonic & Knuckles + Sonic the Hedgehog
+
+[Sonic & Knuckles + Sonic the Hedgehog 2 (Genesis)]
+system = Genesis
+match = Sonic & Knuckles + Sonic the Hedgehog 2
+
+[Sonic & Knuckles + Sonic the Hedgehog 3 (Genesis)]
+system = Genesis
+match = Sonic & Knuckles + Sonic the Hedgehog 3
+
+[Sonic 3D Blast (Genesis)]
+system = Genesis
+match = Sonic 3D Blast
+
+[Sonic 3D Blast (Genesis)]
+system = Genesis
+match = Sonic 3D Blast
+
+[Sonic 3D Blast (Saturn)]
+system = Saturn
+match = Sonic 3D Blast (USA)
+
+[Sonic Advance (GBA)]
+system = GBA
+match = Sonic Advance
+
+[Sonic Advance 2 (GBA)]
+system = GBA
+match = Sonic Advance 2
+
+[Sonic Advance 3 (GBA)]
+system = GBA
+match = Sonic Advance 3
+
+[Sonic Battle (GBA)]
+system = GBA
+match = Sonic Battle
+
+[Sonic Blast (GameGear)]
+system = GameGear
+match = Sonic Blast
+
+[Sonic CD (MegaCD)]
+system = MegaCD
+match = Sonic CD
+
+[Sonic Chaos (MasterSystem)]
+system = MasterSystem
+match = Sonic Chaos
+
+[Sonic Jam (Saturn)]
+system = Saturn
+match = Sonic Jam (USA)
+
+[Sonic Labyrinth (GameGear)]
+system = GameGear
+match = Sonic Labyrinth
+
+[Sonic Pinball Party (GBA)]
+system = GBA
+match = Sonic Pinball Party
+
+[Sonic R (Saturn)]
+system = Saturn
+match = Sonic R (USA)
+
+[Sonic Spinball (Genesis)]
+system = Genesis
+match = Sonic Spinball
+
+[Sonic The Hedgehog - Triple Trouble (GameGear)]
+system = GameGear
+match = Sonic The Hedgehog - Triple Trouble
+
+[Sonic the Hedgehog (Genesis)]
+system = Genesis
+match = Sonic the Hedgehog
+
+[Sonic The Hedgehog (MasterSystem)]
+system = MasterSystem
+match = Sonic The Hedgehog (SMS)
+
+[Sonic the Hedgehog 2 (Genesis)]
+system = Genesis
+match = Sonic the Hedgehog 2
+
+[Sonic The Hedgehog 2 (MasterSystem)]
+system = MasterSystem
+match = Sonic The Hedgehog 2 (SMS) (v1.1)
+
+[Sonic the Hedgehog 3 (Genesis)]
+system = Genesis
+match = Sonic the Hedgehog 3

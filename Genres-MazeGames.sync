@@ -1,0 +1,147 @@
+name = Maze Games
+author = aryko1872
+updated = 2023-10-17
+
+[Alien Arena (Arcade)]
+system = Arcade
+match = Alien Arena (Stargate upgrade)
+
+[Alien Syndrome (Arcade)]
+system = Arcade
+match = Alien Syndrome (W, S16B, Set 4)
+
+[Amazing Maze (Arcade)]
+system = Arcade
+match = Amazing Maze
+
+[Berzerk (Arcade)]
+system = Arcade
+match = Berzerk
+
+[Blasto (Arcade)]
+system = Arcade
+match = Blasto
+
+[Blockade (Arcade)]
+system = Arcade
+match = Blockade
+
+[Boulder Dash - Boulder Dash Part 2 (Arcade)]
+system = Arcade
+match = Boulder Dash - Boulder Dash Part 2 (W)
+
+[Bubbles (Arcade)]
+system = Arcade
+match = Bubbles
+
+[CoMotion (Arcade)]
+system = Arcade
+match = CoMotion
+
+[Crystal Castles (Arcade)]
+system = Arcade
+match = Crystal Castles
+
+[Domino Man (Arcade)]
+system = Arcade
+match = Domino Man
+
+[Dominos (Arcade)]
+system = Arcade
+match = Dominos
+
+[Dottori-Kun (Arcade)]
+system = Arcade
+match = Dottori-Kun (New)
+
+[Dottori-Kun (Arcade)]
+system = Arcade
+match = Dottori-Kun (Old)
+
+[Frenzy (Arcade)]
+system = Arcade
+match = Frenzy (Rev RA1)
+
+[Gauntlet (Arcade)]
+system = Arcade
+match = Gauntlet (Rev 14)
+
+[Gauntlet II (Arcade)]
+system = Arcade
+match = Gauntlet II
+
+[Hustle (Arcade)]
+system = Arcade
+match = Hustle
+
+[I'm Sorry (Arcade)]
+system = Arcade
+match = I'm Sorry (US, 315-5110)
+
+[Inferno (Arcade)]
+system = Arcade
+match = Inferno (Williams)
+
+[Neo Bomberman (NeoGeo)]
+system = NeoGeo
+match = Neo Bomberman
+
+[Neo Mr. Do! (NeoGeo)]
+system = NeoGeo
+match = Neo Mr. Do!
+
+[New Rally-X (Arcade)]
+system = Arcade
+match = New Rally-X
+
+[Pirate Ship Higemaru (Arcade)]
+system = Arcade
+match = Pirate Ship Higemaru
+
+[Poly Play 2 (Arcade)]
+system = Arcade
+match = Poly Play 2
+
+[Quatret 2 (Arcade)]
+system = Arcade
+match = Quatret 2 (W, No Protection)
+
+[Raiders5 (Arcade)]
+system = Arcade
+match = Raiders5
+
+[Rally-X (Arcade)]
+system = Arcade
+match = Rally-X (32k Ver)
+
+[Saturn Bomber Man (Saturn)]
+system = Saturn
+match = Saturn Bomber Man (Europe)
+
+[Saturn Bomberman Fight (Saturn)]
+system = Saturn
+match = Saturn Bomberman Fight (Japan)
+
+[Saturn Bomberman Fight!! (Saturn)]
+system = Saturn
+match = Saturn Bomberman Fight!! (Japan)
+
+[Snezhnaja Koroleva (Arcade)]
+system = Arcade
+match = Snezhnaja Koroleva
+
+[The Adventures of Robby Roto! (Arcade)]
+system = Arcade
+match = The Adventures of Robby Roto!
+
+[The Irritating Maze (NeoGeo)]
+system = NeoGeo
+match = The Irritating Maze
+
+[Time Tunnel (Arcade)]
+system = Arcade
+match = Time Tunnel
+
+[Wizard of Wor (Arcade)]
+system = Arcade
+match = Wizard of Wor

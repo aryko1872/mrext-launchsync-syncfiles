@@ -1,0 +1,147 @@
+name = Shooters
+author = aryko1872
+updated = 2023-10-17
+
+[A-X-101 (MegaCD)]
+system = MegaCD
+match = A-X-101
+
+[Ace Combat 2 (PSX)]
+system = PSX
+match = Ace Combat 2
+
+[Ace Combat 3 - Electrosphere (PSX)]
+system = PSX
+match = Ace Combat 3 - Electrosphere
+
+[Air Combat (PSX)]
+system = PSX
+match = Air Combat
+
+[Area 51 (PSX)]
+system = PSX
+match = Area 51
+
+[Black Fire (Saturn)]
+system = Saturn
+match = Black Fire (USA)
+
+[Colony Wars - Red Sun (PSX)]
+system = PSX
+match = Colony Wars - Red Sun
+
+[Congo - The Movie - The Lost City Of Zinj (Saturn)]
+system = Saturn
+match = Congo - The Movie - The Lost City Of Zinj (USA)
+
+[Contra - Legacy of War (PSX)]
+system = PSX
+match = Contra - Legacy of War
+
+[Crypt Killer (PSX)]
+system = PSX
+match = Crypt Killer
+
+[CyberSled (PSX)]
+system = PSX
+match = CyberSled
+
+[Ground Zero Texas (MegaCD)]
+system = MegaCD
+match = Ground Zero Texas
+
+[House of the Dead, The (Saturn)]
+system = Saturn
+match = House of the Dead, The (USA)
+
+[Judge Dredd (PSX)]
+system = PSX
+match = Judge Dredd
+
+[Lethal Enforcers I & II (PSX)]
+system = PSX
+match = Lethal Enforcers I & II
+
+[Maximum Force (PSX)]
+system = PSX
+match = Maximum Force
+
+[Metal Head (Sega32X)]
+system = Sega32X
+match = Metal Head
+
+[Missile Command (PSX)]
+system = PSX
+match = Missile Command
+
+[NAM-1975(NeoGeo)]
+system = NeoGeo
+match = NAM-1975
+
+[Point Blank (PSX)]
+system = PSX
+match = Point Blank
+
+[Point Blank 2 (PSX)]
+system = PSX
+match = Point Blank 2
+
+[Point Blank 3 (PSX)]
+system = PSX
+match = Point Blank 3
+
+[Project - Horned Owl (PSX)]
+system = PSX
+match = Project - Horned Owl
+
+[Revolution X (PSX)]
+system = PSX
+match = Revolution X
+
+[Robotica (Saturn)]
+system = Saturn
+match = Robotica (USA)
+
+[Robotron X (PSX)]
+system = PSX
+match = Robotron X
+
+[Shadow Squadron (Sega32X)]
+system = Sega32X
+match = Shadow Squadron
+
+[Star Wars Arcade (Sega32X)]
+system = Sega32X
+match = Star Wars Arcade
+
+[Starblade Alpha (PSX)]
+system = PSX
+match = Starblade Alpha
+
+[Time Crisis - Project Titan (PSX)]
+system = PSX
+match = Time Crisis - Project Titan
+
+[Time Crisis (PSX)]
+system = PSX
+match = Time Crisis
+
+[Virtua Cop (Saturn)]
+system = Saturn
+match = Virtua Cop (USA)
+
+[Virtua Cop 2 (Saturn)]
+system = Saturn
+match = Virtua Cop 2 (USA)
+
+[Virtual-On - Cyber Troopers (Saturn)]
+system = Saturn
+match = Virtual-On - Cyber Troopers (USA)
+
+[Wing Arms (Saturn)]
+system = Saturn
+match = Wing Arms (USA)
+
+[Xevious 3D-G+ (PSX)]
+system = PSX
+match = Xevious 3D-G+

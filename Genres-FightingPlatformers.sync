@@ -1,0 +1,147 @@
+name = Fighting Platformers
+author = aryko1872
+updated = 2023-10-17
+
+[Akuma-Jou Dracula (Arcade)]
+system = Arcade
+match = Akuma-Jou Dracula (Ver. N)
+
+[Altered Beast (Arcade)]
+system = Arcade
+match = Altered Beast (W, Set 8)
+
+[Armored Warriors (Arcade)]
+system = Arcade
+match = Armored Warriors (AS, 941024)
+
+[Athena (Arcade)]
+system = Arcade
+match = Athena (Flip Fix)
+
+[Bad Dudes vs. Dragonninja (Arcade)]
+system = Arcade
+match = Bad Dudes vs. Dragonninja (US, Rev. 1)
+
+[Black Tiger (Arcade)]
+system = Arcade
+match = Black Tiger
+
+[Daiku no Gensan (Arcade)]
+system = Arcade
+match = Daiku no Gensan (JP, M72 hardware)
+
+[Daimakaimura (Arcade)]
+system = Arcade
+match = Daimakaimura (JP)
+
+[Dragonninja (Arcade)]
+system = Arcade
+match = Dragonninja (JP, Rev. 1)
+
+[Express Raider (Arcade)]
+system = Arcade
+match = Express Raider (W, Rev 4)
+
+[Ganryu (NeoGeo)]
+system = NeoGeo
+match = Ganryu
+
+[Ghosts'n Goblins (Arcade)]
+system = Arcade
+match = Ghosts'n Goblins (W)
+
+[Ghouls'n Ghosts (Arcade)]
+system = Arcade
+match = Ghouls'n Ghosts (W)
+
+[Hammerin' Harry (Arcade)]
+system = Arcade
+match = Hammerin' Harry (US, M84 hardware)
+
+[Haunted Castle (Arcade)]
+system = Arcade
+match = Haunted Castle (Ver. K)
+
+[Kid Niki- Radical Ninja (Arcade)]
+system = Arcade
+match = Kid Niki- Radical Ninja (W)
+
+[M.I.A. - Missing in Action (Arcade)]
+system = Arcade
+match = M.I.A. - Missing in Action (Ver. T)
+
+[Magic Sword- Heroic Fantasy (Arcade)]
+system = Arcade
+match = Magic Sword- Heroic Fantasy (W, 900725)
+
+[Mega Twins (Arcade)]
+system = Arcade
+match = Mega Twins (W, 900619)
+
+[Mr. Goemon(Arcade)]
+system = Arcade
+match = Mr. Goemon
+
+[Nemo (Arcade)]
+system = Arcade
+match = Nemo (W, 901130)
+
+[Rampage - Through Time (PSX)]
+system = PSX
+match = Rampage - Through Time
+
+[Rampage - World Tour (PSX)]
+system = PSX
+match = Rampage - World Tour
+
+[Rampage (Arcade)]
+system = Arcade
+match = Rampage (Rev 3, 860827)
+
+[Rampage 2 - Universal Tour (PSX)]
+system = PSX
+match = Rampage 2 - Universal Tour
+
+[Rastan (Arcade)]
+system = Arcade
+match = Rastan (W, Rev 1)
+
+[Rygar(Arcade)]
+system = Arcade
+match = Rygar
+
+[Shinobi (Arcade)]
+system = Arcade
+match = Shinobi (W, S16A, Set 6)
+
+[Shinobi (Arcade)]
+system = Arcade
+match = Shinobi (W, S16B, Set 6), No Protection
+
+[Strider (Arcade)]
+system = Arcade
+match = Strider (US, B-Board, 89624B-2)
+
+[Strider 2 (PSX)]
+system = PSX
+match = Strider 2
+
+[Team Buddies (PSX)]
+system = PSX
+match = Team Buddies
+
+[Tiger Road(Arcade)]
+system = Arcade
+match = Tiger Road
+
+[Trojan (Arcade)]
+system = Arcade
+match = Trojan (Romstar)
+
+[Trojan (Arcade)]
+system = Arcade
+match = Trojan (US, Set 1)
+
+[Vigilante (Arcade)]
+system = Arcade
+match = Vigilante (JP, Rev D)

@@ -1,0 +1,251 @@
+name = Marvel
+author = aryko1872
+updated = 2023-10-17
+
+[Amazing Spider-Man 2, The (Gameboy)]
+system = Gameboy
+match = Amazing Spider-Man 2, The (USA, Europe)
+
+[Amazing Spider-Man 3, The - Invasion of the Spider-Slayers (Gameboy)]
+system = Gameboy
+match = Amazing Spider-Man 3, The - Invasion of the Spider-Slayers (USA, Europe)
+
+[Amazing Spider-Man, The (Gameboy)]
+system = Gameboy
+match = Amazing Spider-Man, The (USA, Europe)
+
+[Daredevil (GBA)]
+system = GBA
+match = Daredevil (USA, Europe)
+
+[Incredible Hulk, The - The Pantheon Saga (PSX)]
+system = PSX
+match = Incredible Hulk, The - The Pantheon Saga (USA)
+
+[Incredible Hulk, The (GBA)]
+system = GBA
+match = Incredible Hulk, The (USA)
+
+[Incredible Hulk, The (Genesis)]
+system = Genesis
+match = Incredible Hulk, The (USA, Europe)
+
+[Incredible Hulk, The (SNES)]
+system = SNES
+match = Incredible Hulk, The (USA)
+
+[Invincible Iron Man, The (GBA)]
+system = GBA
+match = Invincible Iron Man, The (USA, Europe)
+
+[Iron Man & X-O Manowar in Heavy Metal (PSX)]
+system = PSX
+match = Iron Man & X-O Manowar in Heavy Metal (USA)
+
+[Iron Man X-O Manowar in Heavy Metal (GameGear)]
+system = GameGear
+match = Iron Man X-O Manowar in Heavy Metal (USA, Europe)
+
+[Marvel - Ultimate Alliance (GBA)]
+system = GBA
+match = Marvel - Ultimate Alliance (USA)
+
+[Marvel Super Heroes (Arcade)]
+system = Arcade
+match = Marvel Super Heroes (EU, 951024)
+
+[Marvel Super Heroes in War of the Gems (SNES)]
+system = SNES
+match = Marvel Super Heroes in War of the Gems (USA)
+
+[Marvel Super Heroes Vs. Street Fighter (Arcade)]
+system = Arcade
+match = Marvel Super Heroes Vs. Street Fighter (EU, 970625)
+
+[Marvel Vs. Capcom- Clash of Super Heroes (Arcade)]
+system = Arcade
+match = Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)
+
+[Punisher (Arcade)]
+system = Arcade
+match = The Punisher (W, 930422)
+
+[Punisher, The - The Ultimate Payback (Gameboy)]
+system = Gameboy
+match = Punisher, The - The Ultimate Payback (USA)
+
+[Punisher, The (Genesis)]
+system = Genesis
+match = Punisher, The (USA)
+
+[Punisher, The (NES)]
+system = NES
+match = Punisher, The (USA)
+
+[Silver Surfer (NES)]
+system = NES
+match = Silver Surfer (USA)
+
+[Spider-Man - Battle for New York (GBA)]
+system = GBA
+match = Spider-Man - Battle for New York (USA)
+
+[Spider-Man - Mysterio's Menace (GBA)]
+system = GBA
+match = Spider-Man - Mysterio's Menace (USA, Europe)
+
+[Spider-Man - Return of the Sinister Six (NES)]
+system = NES
+match = Spider-Man - Return of the Sinister Six (USA)
+
+[Spider-Man - Separation Anxiety (SNES)]
+system = SNES
+match = Spider-Man - Separation Anxiety (E)
+
+[Spider-Man (GameboyColor)]
+system = GameboyColor
+match = Spider-Man (USA, Europe)
+
+[Spider-Man (GBA)]
+system = GBA
+match = Spider-Man (USA, Europe)
+
+[Spider-Man (Genesis)]
+system = Genesis
+match = Spider-Man (USA, Europe) (Acclaim)
+
+[Spider-Man (PSX)]
+system = PSX
+match = Spider-Man (USA)
+
+[Spider-Man (SNES)]
+system = SNES
+match = Spider-Man (USA)
+
+[Spider-Man 2 - Enter - Electro (PSX)]
+system = PSX
+match = Spider-Man 2 - Enter - Electro (USA)
+
+[Spider-Man 2 - The Sinister Six (GameboyColor)]
+system = GameboyColor
+match = Spider-Man 2 - The Sinister Six (USA)
+
+[Spider-Man 2 (GBA)]
+system = GBA
+match = Spider-Man 2 (USA, Europe)
+
+[Spider-Man 3 (GBA)]
+system = GBA
+match = Spider-Man 3 (USA)
+
+[Spider-Man and the X-Men in Arcade's Revenge (GameGear)]
+system = GameGear
+match = Spider-Man and the X-Men in Arcade's Revenge (USA)
+
+[Spider-Man and Venom - Maximum Carnage (Genesis)]
+system = Genesis
+match = Spider-Man and Venom - Maximum Carnage (World)
+
+[Spider-Man and Venom - Separation Anxiety (Genesis)]
+system = Genesis
+match = Spider-Man and Venom - Separation Anxiety (USA, Europe)
+
+[Spider-Man and X-Men - Arcade's Revenge (Genesis)]
+system = Genesis
+match = Spider-Man and X-Men - Arcade's Revenge (USA, Europe)
+
+[Spider-Man vs. The Kingpin (GameGear)]
+system = GameGear
+match = Spider-Man vs. The Kingpin (USA, Europe)
+
+[Spider-Man vs. The Kingpin (MasterSystem)]
+system = MasterSystem
+match = Spider-Man vs. The Kingpin (USA, Europe)
+
+[Spider-Man-Venom - Maximum Carnage (SNES)]
+system = SNES
+match = Spider-Man-Venom - Maximum Carnage (USA)
+
+[Spider-Man-X-Men - Arcade's Revenge (SNES)]
+system = SNES
+match = Spider-Man-X-Men - Arcade's Revenge (USA)
+
+[Ultimate Spider-Man (GBA)]
+system = GBA
+match = Ultimate Spider-Man (USA)
+
+[Uncanny X-Men, The (NES)]
+system = NES
+match = Uncanny X-Men, The (USA)
+
+[Wolverine - Adamantium Rage (SNES)]
+system = SNES
+match = Wolverine - Adamantium Rage (USA)
+
+[Wolverine (NES)]
+system = NES
+match = Wolverine (USA)
+
+[X-Men - Gamemaster's Legacy (GameGear)]
+system = GameGear
+match = X-Men - Gamemaster's Legacy (USA, Europe)
+
+[X-Men - Mojo World (GameGear)]
+system = GameGear
+match = X-Men - Mojo World (USA, Europe)
+
+[X-Men - Mutant Academy (GameboyColor)]
+system = GameboyColor
+match = X-Men - Mutant Academy (USA, Europe)
+
+[X-Men - Mutant Academy (PSX)]
+system = PSX
+match = X-Men - Mutant Academy (USA)
+
+[X-Men - Mutant Academy 2 (PSX)]
+system = PSX
+match = X-Men - Mutant Academy 2 (USA)
+
+[X-Men - Mutant Apocalypse (SNES)]
+system = SNES
+match = X-Men - Mutant Apocalypse (USA)
+
+[X-Men - Mutant Wars (GameboyColor)]
+system = GameboyColor
+match = X-Men - Mutant Wars (USA, Europe)
+
+[X-Men - Reign of Apocalypse (GBA)]
+system = GBA
+match = X-Men - Reign of Apocalypse (USA, Europe)
+
+[X-Men - The Official Game (GBA)]
+system = GBA
+match = X-Men - The Official Game (USA)
+
+[X-Men - Wolverine's Rage (GameboyColor)]
+system = GameboyColor
+match = X-Men - Wolverine's Rage (USA)
+
+[X-Men (GameGear)]
+system = GameGear
+match = X-Men (USA)
+
+[X-Men (Genesis)]
+system = Genesis
+match = X-Men (USA)
+
+[X-Men 2 - Clone Wars (Genesis)]
+system = Genesis
+match = X-Men 2 - Clone Wars (USA, Europe)
+
+[X-Men Vs. Street Fighter (Arcade)]
+system = Arcade
+match = X-Men Vs. Street Fighter (EU, 961004)
+
+[X-Men- Children of the Atom (Arcade)]
+system = Arcade
+match = X-Men- Children of the Atom (EU, 950331)
+
+[X2 - Wolverine's Revenge (GBA)]
+system = GBA
+match = X2 - Wolverine's Revenge (USA, Europe)

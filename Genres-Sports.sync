@@ -1,0 +1,547 @@
+name = Sports
+author = aryko1872
+updated = 2023-10-17
+
+[Bang Bead (NeoGeo)]
+system = NeoGeo
+match = Bang Bead
+
+[Baseball Stars 2 (NeoGeo)]
+system = NeoGeo
+match = Baseball Stars 2
+
+[Baseball Stars Professional (NeoGeo)]
+system = NeoGeo
+match = Baseball Stars Professional
+
+[Battle Flip Shot (NeoGeo)]
+system = NeoGeo
+match = Battle Flip Shot
+
+[BattleSport (PSX)]
+system = PSX
+match = BattleSport
+
+[Big Ol' Bass 2 (PSX)]
+system = PSX
+match = Big Ol' Bass 2
+
+[Billiard (Arcade)]
+system = Arcade
+match = Billiard
+
+[Bottom of the 9th '97 (PSX)]
+system = PSX
+match = Bottom of the 9th '97
+
+[Bottom of the 9th '99 (PSX)]
+system = PSX
+match = Bottom of the 9th '99
+
+[Bottom of the 9th (PSX)]
+system = PSX
+match = Bottom of the 9th
+
+[Bouncers (MegaCD)]
+system = MegaCD
+match = Bouncers
+
+[Bull Fight (Arcade)]
+system = Arcade
+match = Bull Fight (315-5056)
+
+[Capcom Sports Club (Arcade)]
+system = Arcade
+match = Capcom Sports Club (EU, 971017)
+
+[Combat School (Arcade)]
+system = Arcade
+match = Combat School (Joystick)
+
+[Country Club (Arcade)]
+system = Arcade
+match = Country Club
+
+[Discs of Tron (Arcade)]
+system = Arcade
+match = Discs of Tron
+
+[Dokaben (Arcade)]
+system = Arcade
+match = Dokaben (JP)
+
+[Dream Soccer '94 (Arcade)]
+system = Arcade
+match = Dream Soccer '94 (JP, M92)
+
+[Dunk Shot (Arcade)]
+system = Arcade
+match = Dunk Shot (W, Rev C)
+
+[ESPN MLS Gamenight (PSX)]
+system = PSX
+match = ESPN MLS Gamenight
+
+[ESPN NBA Hangtime '95 (MegaCD)]
+system = MegaCD
+match = ESPN NBA Hangtime '95
+
+[Excite League (Arcade)]
+system = Arcade
+match = Excite League (W)
+
+[Extra Bases (Arcade)]
+system = Arcade
+match = Extra Bases
+
+[FIFA 99 (PSX)]
+system = PSX
+match = FIFA 99
+
+[Fighting Golf (Arcade)]
+system = Arcade
+match = Fighting Golf
+
+[Final Round, The (PSX)]
+system = PSX
+match = Final Round, The
+
+[Fisherman's Bait - A Bass Challenge (PSX)]
+system = PSX
+match = Fisherman's Bait - A Bass Challenge
+
+[Fisherman's Bait 2 - Big Ol' Bass (PSX)]
+system = PSX
+match = Fisherman's Bait 2 - Big Ol' Bass
+
+[Football Frenzy (NeoGeo)]
+system = NeoGeo
+match = Football Frenzy
+
+[Freestyle Boardin' '99 (PSX)]
+system = PSX
+match = Freestyle Boardin' '99
+
+[Goal Storm '97 (PSX)]
+system = PSX
+match = Goal Storm '97
+
+[Goal Storm (PSX)]
+system = PSX
+match = Goal Storm
+
+[Goal! Goal! Goal! (NeoGeo)]
+system = NeoGeo
+match = Goal! Goal! Goal!
+
+[Golf Magazine (Sega32X)]
+system = Sega32X
+match = Golf Magazine
+
+[Hot Shots Golf (PSX)]
+system = PSX
+match = Hot Shots Golf
+
+[Hot Shots Golf 2 (PSX)]
+system = PSX
+match = Hot Shots Golf 2
+
+[Hyper Sports (Arcade)]
+system = Arcade
+match = Hyper Sports
+
+[International Superstar Soccer Pro '98 (PSX)]
+system = PSX
+match = International Superstar Soccer Pro '98
+
+[International Track & Field (PSX)]
+system = PSX
+match = International Track & Field
+
+[International Track & Field 2000 (PSX)]
+system = PSX
+match = International Track & Field 2000
+
+[ISS Pro Evolution (PSX)]
+system = PSX
+match = ISS Pro Evolution
+
+[Kick and Run (Arcade)]
+system = Arcade
+match = Kick and Run (W)
+
+[Knockout Kings (PSX)]
+system = PSX
+match = Knockout Kings
+
+[Konami Open Golf (PSX)]
+system = PSX
+match = Konami Open Golf (Europe)
+
+[Konami's Ping-Pong (Arcade)]
+system = Arcade
+match = Konami's Ping-Pong
+
+[Kurt Warner's Arena Football Unleashed (PSX)]
+system = PSX
+match = Kurt Warner's Arena Football Unleashed
+
+[League Bowling (NeoGeo)]
+system = NeoGeo
+match = League Bowling
+
+[Madden NFL 2001 (PSX)]
+system = PSX
+match = Madden NFL 2001
+
+[Madden NFL 2005 (PSX)]
+system = PSX
+match = Madden NFL 2005
+
+[Major Title 2 (Arcade)]
+system = Arcade
+match = Major Title 2 (W, Set 1)
+
+[Manx TT SuperBike (Saturn)]
+system = Saturn
+match = Manx TT SuperBike (USA)
+
+[Motocross Championship (Sega32X)]
+system = Sega32X
+match = Motocross Championship
+
+[Muscle Bomber Duo- Ultimate Team Battle (Arcade)]
+system = Arcade
+match = Muscle Bomber Duo- Ultimate Team Battle (W, 931206)
+
+[MVP (Arcade)]
+system = Arcade
+match = MVP (US, Set 2)
+
+[Mystic Marathon (Arcade)]
+system = Arcade
+match = Mystic Marathon
+
+[Nagano Winter Olympics '98 (PSX)]
+system = PSX
+match = Nagano Winter Olympics '98
+
+[NBA Fastbreak '98 (PSX)]
+system = PSX
+match = NBA Fastbreak '98
+
+[NBA Hangtime (PSX)]
+system = PSX
+match = NBA Hangtime (USA)
+
+[NBA Hangtime (PSX)]
+system = PSX
+match = NBA Hangtime
+
+[NBA Hoopz (PSX)]
+system = PSX
+match = NBA Hoopz
+
+[NBA in the Zone '98 (PSX)]
+system = PSX
+match = NBA in the Zone '98
+
+[NBA in the Zone '99 (PSX)]
+system = PSX
+match = NBA in the Zone '99
+
+[NBA in the Zone (PSX)]
+system = PSX
+match = NBA in the Zone
+
+[NBA in the Zone 2 (PSX)]
+system = PSX
+match = NBA in the Zone 2
+
+[NBA in the Zone 2000 (PSX)]
+system = PSX
+match = NBA in the Zone 2000
+
+[NBA Jam Extreme (PSX)]
+system = PSX
+match = NBA Jam Extreme
+
+[NBA Live 2000 (PSX)]
+system = PSX
+match = NBA Live 2000
+
+[NBA Showtime - NBA on NBC (PSX)]
+system = PSX
+match = NBA Showtime - NBA on NBC
+
+[Neo Geo Cup '98: The Road to the Victory (NeoGeo)]
+system = NeoGeo
+match = Neo Geo Cup '98: The Road to the Victory
+
+[Neo Turf Masters (NeoGeo)]
+system = NeoGeo
+match = Neo Turf Masters
+
+[New Tropical Angel (Arcade)]
+system = Arcade
+match = New Tropical Angel
+
+[NFL '97 (Saturn)]
+system = Saturn
+match = NFL '97 (USA)
+
+[NFL Blitz (PSX)]
+system = PSX
+match = NFL Blitz
+
+[NFL Blitz 2000 (PSX)]
+system = PSX
+match = NFL Blitz 2000
+
+[NFL Blitz 2001 (PSX)]
+system = PSX
+match = NFL Blitz 2001
+
+[NFL Full Contact (PSX)]
+system = PSX
+match = NFL Full Contact
+
+[NHL All-Star Hockey (Saturn)]
+system = Saturn
+match = NHL All-Star Hockey (USA)
+
+[NHL All-Star Hockey 98 (Saturn)]
+system = Saturn
+match = NHL All-Star Hockey 98 (USA)
+
+[NHL Blades of Steel 2000 (PSX)]
+system = PSX
+match = NHL Blades of Steel 2000
+
+[NHL Open Ice - 2 on 2 Challenge (PSX)]
+system = PSX
+match = NHL Open Ice - 2 on 2 Challenge
+
+[NHL Rock the Rink (PSX)]
+system = PSX
+match = NHL Rock the Rink
+
+[Penguin-Kun Wars (Arcade)]
+system = Arcade
+match = Penguin-Kun Wars (JP)
+
+[Penguin-Kun Wars (Arcade)]
+system = Arcade
+match = Penguin-Kun Wars (US)
+
+[Pleasure Goal: 5 on 5 Mini Soccer (NeoGeo)]
+system = NeoGeo
+match = Pleasure Goal: 5 on 5 Mini Soccer
+
+[Power Spikes II (NeoGeo)]
+system = NeoGeo
+match = Power Spikes II
+
+[Prize Fighter (MegaCD)]
+system = MegaCD
+match = Prize Fighter
+
+[Punk Shot (Arcade)]
+system = Arcade
+match = Punk Shot (JP, 2P)
+
+[Punk Shot (Arcade)]
+system = Arcade
+match = Punk Shot (US, 4P)
+
+[RBI Baseball '95 (Sega32X)]
+system = Sega32X
+match = RBI Baseball '95
+
+[Ready 2 Rumble Boxing - Round 2 (PSX)]
+system = PSX
+match = Ready 2 Rumble Boxing - Round 2
+
+[Ready 2 Rumble Boxing (PSX)]
+system = PSX
+match = Ready 2 Rumble Boxing
+
+[Ring of Destruction- Slam Masters II (Arcade)]
+system = Arcade
+match = Ring of Destruction- Slam Masters II (EU, 940902)
+
+[Saturday Night Slam Masters (Arcade)]
+system = Arcade
+match = Saturday Night Slam Masters (W, 930713)
+
+[Sea Bass Fishing (Saturn)]
+system = Saturn
+match = Sea Bass Fishing (Europe)
+
+[Sega Worldwide Soccer '97 (Saturn)]
+system = Saturn
+match = Sega Worldwide Soccer '97 (USA)
+
+[Sega Worldwide Soccer '98 (Saturn)]
+system = Saturn
+match = Sega Worldwide Soccer '98 (USA)
+
+[Silver Land (Arcade)]
+system = Arcade
+match = Silver Land
+
+[Slap Shooter (Arcade)]
+system = Arcade
+match = Slap Shooter
+
+[Soccer Brawl (NeoGeo)]
+system = NeoGeo
+match = Soccer Brawl
+
+[Squash (Arcade)]
+system = Arcade
+match = Squash (Itisa)
+
+[Stakes Winner (NeoGeo)]
+system = NeoGeo
+match = Stakes Winner
+
+[Stakes Winner 2 (NeoGeo)]
+system = NeoGeo
+match = Stakes Winner 2
+
+[Steep Slope Sliders (Saturn)]
+system = Saturn
+match = Steep Slope Sliders (USA)
+
+[Street Slam (NeoGeo)]
+system = NeoGeo
+match = Street Slam
+
+[Super Baseball 2020 (NeoGeo)]
+system = NeoGeo
+match = Super Baseball 2020
+
+[Super Dodge Ball (NeoGeo)]
+system = NeoGeo
+match = Super Dodge Ball
+
+[Super League (Arcade)]
+system = Arcade
+match = Super League (W)
+
+[Super Muscle Bomber- The International Blowout (Arcade)]
+system = Arcade
+match = Super Muscle Bomber- The International Blowout (JP, 940831)
+
+[Super Sidekicks (NeoGeo)]
+system = NeoGeo
+match = Super Sidekicks
+
+[Super Sidekicks 2: The World Championship (NeoGeo)]
+system = NeoGeo
+match = Super Sidekicks 2: The World Championship
+
+[Super Sidekicks 3: The Next Glory (NeoGeo)]
+system = NeoGeo
+match = Super Sidekicks 3: The Next Glory
+
+[Tecmo World Soccer '96 (NeoGeo)]
+system = NeoGeo
+match = Tecmo World Soccer '96
+
+[The Final Round (Arcade)]
+system = Arcade
+match = The Final Round (Ver. M)
+
+[The Ultimate 11: SNK Football Championship (NeoGeo)]
+system = NeoGeo
+match = The Ultimate 11: SNK Football Championship
+
+[Tiger Woods 99 PGA Tour Golf (PSX)]
+system = PSX
+match = Tiger Woods 99 PGA Tour Golf
+
+[Tiger Woods 99 PGA Tour Golf (PSX)]
+system = PSX
+match = Tiger Woods 99 PGA Tour Golf (v1.1)
+
+[Tiger Woods PGA Tour 2000 (PSX)]
+system = PSX
+match = Tiger Woods PGA Tour 2000
+
+[Tiger Woods PGA Tour Golf (PSX)]
+system = PSX
+match = Tiger Woods PGA Tour Golf
+
+[Top Player's Golf (NeoGeo)]
+system = NeoGeo
+match = Top Player's Golf
+
+[Track & Field (Arcade)]
+system = Arcade
+match = Track & Field
+
+[Trick'n Snowboarder (PSX)]
+system = PSX
+match = Trick'n Snowboarder
+
+[Triple Play 2000.cue (PSX)]
+system = PSX
+match = Triple Play 2000.cue
+
+[Triple Play 2001 (PSX)]
+system = PSX
+match = Triple Play 2001
+
+[Tropical Angel (Arcade)]
+system = Arcade
+match = Tropical Angel
+
+[U.S. Championship V'ball (Arcade)]
+system = Arcade
+match = U.S. Championship V'ball (US)
+
+[UEFA Euro 96 England (Saturn)]
+system = Saturn
+match = UEFA Euro 96 England (Europe)
+
+[Valora Valley Golf (Saturn)]
+system = Saturn
+match = Valora Valley Golf (USA)
+
+[Virtual Open Tennis (Saturn)]
+system = Saturn
+match = Virtual Open Tennis (USA)
+
+[Virtual Pool (PSX)]
+system = PSX
+match = Virtual Pool
+
+[Wayne Gretzky's 3D Hockey '98 (PSX)]
+system = PSX
+match = Wayne Gretzky's 3D Hockey '98 (USA)
+
+[Wayne Gretzky's 3D Hockey '98 (PSX)]
+system = PSX
+match = Wayne Gretzky's 3D Hockey '98
+
+[Windjammers (NeoGeo)]
+system = NeoGeo
+match = Windjammers
+
+[Winter Heat (Saturn)]
+system = Saturn
+match = Winter Heat (USA)
+
+[World Series Baseball '98 (Saturn)]
+system = Saturn
+match = World Series Baseball '98 (USA)
+
+[World Series Baseball (Saturn)]
+system = Saturn
+match = World Series Baseball (USA)
+
+[World Series Baseball II (Saturn)]
+system = Saturn
+match = World Series Baseball II (USA)

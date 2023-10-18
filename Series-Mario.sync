@@ -1,0 +1,119 @@
+name = Mario
+author = aryko1872
+updated = 2023-10-17
+
+[Dr. Mario (NES)]
+system = NES
+match = Dr. Mario (Japan, USA)
+
+[Mario & Luigi - Superstar Saga (GBA)]
+system = GBA
+match = Mario & Luigi - Superstar Saga (USA, Australia)
+
+[Mario Bros. (Arcade)]
+system = Arcade
+match = Mario Bros. (US, Rev G)
+
+[Mario Golf - Advance Tour (GBA)]
+system = GBA
+match = Mario Golf - Advance Tour (USA)
+
+[Mario Golf (GameboyColor)]
+system = GameboyColor
+match = Mario Golf (USA)
+
+[Mario Is Missing! (SNES)]
+system = SNES
+match = Mario Is Missing! (USA)
+
+[Mario Kart - Super Circuit (GBA)]
+system = GBA
+match = Mario Kart - Super Circuit (USA)
+
+[Mario Paint (SNES)]
+system = SNES
+match = Mario Paint (Japan, USA)
+
+[Mario Party Advance (GBA)]
+system = GBA
+match = Mario Party Advance (USA)
+
+[Mario Pinball Land (GBA)]
+system = GBA
+match = Mario Pinball Land (USA, Australia)
+
+[Mario Tennis - Power Tour (GBA)]
+system = GBA
+match = Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)
+
+[Mario Tennis (GameboyColor)]
+system = GameboyColor
+match = Mario Tennis (USA)
+
+[Mario vs. Donkey Kong (GBA)]
+system = GBA
+match = Mario vs. Donkey Kong (USA, Australia)
+
+[Mario's Picross (Gameboy)]
+system = Gameboy
+match = Mario's Picross (USA, Europe) (SGB Enhanced)
+
+[Mario's Time Machine (SNES)]
+system = SNES
+match = Mario's Time Machine (USA)
+
+[Super Mario All-Stars (SNES)]
+system = SNES
+match = Super Mario All-Stars (USA)
+
+[Super Mario Bros. - Lost Levels (NES)]
+system = NES
+match = Super Mario Bros. - Lost Levels
+
+[Super Mario Bros. (NES)]
+system = NES
+match = Super Mario Bros. (World)
+
+[Super Mario Bros. 2 (NES)]
+system = NES
+match = Super Mario Bros. 2 (USA)
+
+[Super Mario Bros. 3 (NES)]
+system = NES
+match = Super Mario Bros. 3 (USA)
+
+[Super Mario Kart (SNES)]
+system = SNES
+match = Super Mario Kart (USA)
+
+[Super Mario Land (Gameboy)]
+system = Gameboy
+match = Super Mario Land (World)
+
+[Super Mario Land 2 - 6 Golden Coins (Gameboy)]
+system = Gameboy
+match = Super Mario Land 2 - 6 Golden Coins (USA, Europe)
+
+[Super Mario RPG - Legend of the Seven Stars (SNES)]
+system = SNES
+match = Super Mario RPG - Legend of the Seven Stars (USA)
+
+[Super Mario World (SNES)]
+system = SNES
+match = Super Mario World (USA)
+
+[Super Mario World 2 - Yoshi's Island (SNES)]
+system = SNES
+match = Super Mario World 2 - Yoshi's Island (USA)
+
+[Tetris & Dr. Mario (SNES)]
+system = SNES
+match = Tetris & Dr. Mario (USA)
+
+[Wario Blast featuring Bomberman! (Gameboy)]
+system = Gameboy
+match = Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced)
+
+[Wario Land - Super Mario Land 3 (Gameboy)]
+system = Gameboy
+match = Wario Land - Super Mario Land 3 (World)

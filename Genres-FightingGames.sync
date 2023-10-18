@@ -1,0 +1,719 @@
+name = Fighting Games
+author = aryko1872
+updated = 2023-10-17
+
+[3 Count Bout (NeoGeo)]
+system = NeoGeo
+match = 3 Count Bout
+
+[Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (PSX)]
+system = PSX
+match = Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft
+
+[Aggressors of Dark Kombat (NeoGeo)]
+system = NeoGeo
+match = Aggressors of Dark Kombat
+
+[Art of Fighting (NeoGeo)]
+system = NeoGeo
+match = Art of Fighting
+
+[Art of Fighting 2 (NeoGeo)]
+system = NeoGeo
+match = Art of Fighting 2
+
+[Art of Fighting 3: The Path of the Warrior (NeoGeo)]
+system = NeoGeo
+match = Art of Fighting 3: The Path of the Warrior
+
+[Battle Arena Toshinden (PSX)]
+system = PSX
+match = Battle Arena Toshinden
+
+[Battle Arena Toshinden 2 (PSX)]
+system = PSX
+match = Battle Arena Toshinden 2
+
+[Battle Arena Toshinden 3 (PSX)]
+system = PSX
+match = Battle Arena Toshinden 3
+
+[Battle Monsters (Saturn)]
+system = Saturn
+match = Battle Monsters (USA)
+
+[Bio F.R.E.A.K.S. (PSX)]
+system = PSX
+match = Bio F.R.E.A.K.S.
+
+[Bloody Roar (PSX)]
+system = PSX
+match = Bloody Roar
+
+[Bloody Roar II (PSX)]
+system = PSX
+match = Bloody Roar II
+
+[BoomBots (PSX)]
+system = PSX
+match = BoomBots
+
+[Breakers (NeoGeo)]
+system = NeoGeo
+match = Breakers
+
+[Breakers Revenge (NeoGeo)]
+system = NeoGeo
+match = Breakers Revenge
+
+[Bushido Blade (PSX)]
+system = PSX
+match = Bushido Blade
+
+[Bushido Blade 2 (PSX)]
+system = PSX
+match = Bushido Blade 2
+
+[Capcom vs. SNK Pro (PSX)]
+system = PSX
+match = Capcom vs. SNK Pro
+
+[Cardinal Syn (PSX)]
+system = PSX
+match = Cardinal Syn
+
+[Clay Fighter (Genesis)]
+system = Genesis
+match = Clay Fighter (USA)
+
+[Clay Fighter 2: Judgment Clay (SNES)]
+system = SNES
+match = Clay Fighter 2: Judgment Clay (USA)
+
+[Cosmic Carnage (Sega32X)]
+system = Sega32X
+match = Cosmic Carnage
+
+[Criticom (PSX)]
+system = PSX
+match = Criticom
+
+[Cyberbots- Fullmetal Madness (Arcade)]
+system = Arcade
+match = Cyberbots- Fullmetal Madness (EU, 950424)
+
+[Darkstalkers 3 (PSX)]
+system = PSX
+match = Darkstalkers 3
+
+[Darkstalkers 3 (PSX)]
+system = PSX
+match = Darkstalkers 3
+
+[Darkstalkers- The Night Warriors (Arcade)]
+system = Arcade
+match = Darkstalkers- The Night Warriors (EU, 940705)
+
+[Dead or Alive (PSX)]
+system = PSX
+match = Dead or Alive
+
+[Destrega (PSX)]
+system = PSX
+match = Destrega
+
+[Digimon Rumble Arena (PSX)]
+system = PSX
+match = Digimon Rumble Arena
+
+[Double Dragon (NeoGeo)]
+system = NeoGeo
+match = Double Dragon
+
+[Double Dragon V - The Shadow Falls (Genesis)]
+system = Genesis
+match = Double Dragon V - The Shadow Falls (USA)
+
+[Dragon Ball GT - Final Bout (PSX)]
+system = PSX
+match = Dragon Ball GT - Final Bout
+
+[Dragon Ball Z - Ultimate Battle 22 (PSX)]
+system = PSX
+match = Dragon Ball Z - Ultimate Battle 22
+
+[Dynasty Warriors (PSX)]
+system = PSX
+match = Dynasty Warriors
+
+[Ehrgeiz - God Bless the Ring (PSX)]
+system = PSX
+match = Ehrgeiz - God Bless the Ring
+
+[Eternal Champions - Challenge from the Dark Side (MegaCD)]
+system = MegaCD
+match = Eternal Champions - Challenge from the Dark Side
+
+[Evil Zone (PSX)]
+system = PSX
+match = Evil Zone
+
+[Far East of Eden: Kabuki Klash (NeoGeo)]
+system = NeoGeo
+match = Far East of Eden: Kabuki Klash
+
+[Fatal Fury - Wild Ambition (PSX)]
+system = PSX
+match = Fatal Fury - Wild Ambition
+
+[Fatal Fury 2 (NeoGeo)]
+system = NeoGeo
+match = Fatal Fury 2
+
+[Fatal Fury 3: Road to the Final Victory (NeoGeo)]
+system = NeoGeo
+match = Fatal Fury 3: Road to the Final Victory
+
+[Fatal Fury Special (NeoGeo)]
+system = NeoGeo
+match = Fatal Fury Special
+
+[Fatal Fury: King of Fighters (NeoGeo)]
+system = NeoGeo
+match = Fatal Fury: King of Fighters
+
+[Fight Fever (NeoGeo)]
+system = NeoGeo
+match = Fight Fever
+
+[Fighter Maker (PSX)]
+system = PSX
+match = Fighter Maker
+
+[Fighters Megamix (Saturn)]
+system = Saturn
+match = Fighters Megamix (USA)
+
+[Fighting Force (PSX)]
+system = PSX
+match = Fighting Force
+
+[Fighting Vipers (Saturn)]
+system = Saturn
+match = Fighting Vipers (USA)
+
+[Flash Hiders (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Flash Hiders
+
+[Galaxy Fight: Universal Warriors (NeoGeo)]
+system = NeoGeo
+match = Galaxy Fight: Universal Warriors
+
+[Garou: Mark of the Wolves (NeoGeo)]
+system = NeoGeo
+match = Garou: Mark of the Wolves
+
+[Godzilla (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Godzilla
+
+[Golden Axe - The Duel (Saturn)]
+system = Saturn
+match = Golden Axe - The Duel (USA)
+
+[Guilty Gear (PSX)]
+system = PSX
+match = Guilty Gear
+
+[Gundam Battle Assault (PSX)]
+system = PSX
+match = Gundam Battle Assault
+
+[Gundam Battle Assault 2 (PSX)]
+system = PSX
+match = Gundam Battle Assault 2
+
+[Hippodrome (Arcade)]
+system = Arcade
+match = Hippodrome (US)
+
+[Hyper Street Fighter II- The Anniversary Edition (Arcade)]
+system = Arcade
+match = Hyper Street Fighter II- The Anniversary Edition (US, 040202)
+
+[InuYasha - A Feudal Fairy Tale (PSX)]
+system = PSX
+match = InuYasha - A Feudal Fairy Tale (v1.1)
+
+[JoJo's Bizarre Adventure (PSX)]
+system = PSX
+match = JoJo's Bizarre Adventure
+
+[K-1 Revenge (PSX)]
+system = PSX
+match = K-1 Revenge
+
+[K-1 The Arena Fighters (PSX)]
+system = PSX
+match = K-1 The Arena Fighters
+
+[Karnov's Revenge (NeoGeo)]
+system = NeoGeo
+match = Karnov's Revenge
+
+[Kensei - Sacred Fist (PSX)]
+system = PSX
+match = Kensei - Sacred Fist
+
+[Kickboxing (PSX)]
+system = PSX
+match = Kickboxing
+
+[Killing Zone (PSX)]
+system = PSX
+match = Killing Zone
+
+[King of the Monsters (NeoGeo)]
+system = NeoGeo
+match = King of the Monsters
+
+[King of the Monsters 2 (NeoGeo)]
+system = NeoGeo
+match = King of the Monsters 2
+
+[Kizuna Encounter (NeoGeo)]
+system = NeoGeo
+match = Kizuna Encounter
+
+[Kot-Rybolov (Arcade)]
+system = Arcade
+match = Kot-Rybolov
+
+[Last Bronx (Saturn)]
+system = Saturn
+match = Last Bronx (USA)
+
+[Marvel Super Heroes (Arcade)]
+system = Arcade
+match = Marvel Super Heroes (EU, 951024)
+
+[Marvel Super Heroes Vs. Street Fighter (Arcade)]
+system = Arcade
+match = Marvel Super Heroes Vs. Street Fighter (EU, 970625)
+
+[Marvel Vs. Capcom- Clash of Super Heroes (Arcade)]
+system = Arcade
+match = Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)
+
+[Matrimelee (NeoGeo)]
+system = NeoGeo
+match = Matrimelee
+
+[Mega Man 2- The Power Fighters (Arcade)]
+system = Arcade
+match = Mega Man 2- The Power Fighters (US, 960708)
+
+[Mega Man- The Power Battle (Arcade)]
+system = Arcade
+match = Mega Man- The Power Battle (US, 951006)
+
+[Mighty Morphin Power Rangers (Genesis)]
+system = Genesis
+match = Mighty Morphin Power Rangers (USA)
+
+[Mighty Morphin Power Rangers (MegaCD)]
+system = MegaCD
+match = Mighty Morphin Power Rangers
+
+[Mighty Morphin Power Rangers: The Fighting Edition (SNES)]
+system = SNES
+match = Mighty Morphin Power Rangers: The Fighting Edition (USA)
+
+[Mortal Kombat 4 (PSX)]
+system = PSX
+match = Mortal Kombat 4
+
+[MTV Celebrity Deathmatch (PSX)]
+system = PSX
+match = MTV Celebrity Deathmatch
+
+[Night Warriors- Darkstalkers' Revenge (Arcade)]
+system = Arcade
+match = Night Warriors- Darkstalkers' Revenge (EU, 950316)
+
+[Ninja Master's: Haō Ninpō Chō (NeoGeo)]
+system = NeoGeo
+match = Ninja Master's: Haō Ninpō Chō
+
+[Pocket Fighter (PSX)]
+system = PSX
+match = Pocket Fighter
+
+[Primal Rage (PSX)]
+system = PSX
+match = Primal Rage
+
+[Psychic Force (PSX)]
+system = PSX
+match = Psychic Force
+
+[Rage of the Dragons (NeoGeo)]
+system = NeoGeo
+match = Rage of the Dragons
+
+[Ragnagard (NeoGeo)]
+system = NeoGeo
+match = Ragnagard
+
+[Ranma 1-2: Hard Battle (SNES)]
+system = SNES
+match = Ranma 1-2: Hard Battle (USA)
+
+[Real Bout Fatal Fury (NeoGeo)]
+system = NeoGeo
+match = Real Bout Fatal Fury
+
+[Real Bout Fatal Fury 2: The Newcomers (NeoGeo)]
+system = NeoGeo
+match = Real Bout Fatal Fury 2: The Newcomers
+
+[Real Bout Fatal Fury Special (NeoGeo)]
+system = NeoGeo
+match = Real Bout Fatal Fury Special
+
+[Rise 2 - Resurrection (PSX)]
+system = PSX
+match = Rise 2 - Resurrection
+
+[Rival Schools - United by Fate (PSX)]
+system = PSX
+match = Rival Schools - United by Fate
+
+[Robo Pit (PSX)]
+system = PSX
+match = Robo Pit
+
+[Robo Pit 2 (PSX)]
+system = PSX
+match = Robo Pit 2
+
+[Rock 'Em Sock 'Em Robots Arena (PSX)]
+system = PSX
+match = Rock 'Em Sock 'Em Robots Arena
+
+[Samurai Shodown (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown
+
+[Samurai Shodown II (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown II
+
+[Samurai Shodown III: Blades of Blood (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown III: Blades of Blood
+
+[Samurai Shodown IV: Amakusa's Revenge (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown IV: Amakusa's Revenge
+
+[Samurai Shodown V (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown V
+
+[Samurai Shodown V Special (NeoGeo)]
+system = NeoGeo
+match = Samurai Shodown V Special
+
+[Savage Reign (NeoGeo)]
+system = NeoGeo
+match = Savage Reign
+
+[Shaolin (PSX)]
+system = PSX
+match = Shaolin (Europe)
+
+[SNK vs. Capcom: SVC Chaos (NeoGeo)]
+system = NeoGeo
+match = SNK vs. Capcom: SVC Chaos
+
+[Soul Blade (PSX)]
+system = PSX
+match = Soul Blade
+
+[Star Gladiator (PSX)]
+system = PSX
+match = Star Gladiator
+
+[Star Wars - Masters of Teras Kasi (PSX)]
+system = PSX
+match = Star Wars - Masters of Teras Kasi
+
+[Street Fighter - The Movie (PSX)]
+system = PSX
+match = Street Fighter - The Movie
+
+[Street Fighter (Arcade)]
+system = Arcade
+match = Street Fighter (US, Set 1)
+
+[Street Fighter Alpha 2 (Arcade)]
+system = Arcade
+match = Street Fighter Alpha 2 (EU, 960229)
+
+[Street Fighter Alpha 3 (Arcade)]
+system = Arcade
+match = Street Fighter Alpha 3 (EU, 980904)
+
+[Street Fighter Alpha- Warriors' Dreams (Arcade)]
+system = Arcade
+match = Street Fighter Alpha- Warriors' Dreams (EU, 950727)
+
+[Street Fighter Alpha- Warriors' Dreams (Arcade)]
+system = Arcade
+match = Street Fighter Alpha- Warriors' Dreams (US, CPS Changer, 950727)
+
+[Street Fighter EX Plus Alpha (PSX)]
+system = PSX
+match = Street Fighter EX Plus Alpha
+
+[Street Fighter EX2 Plus (PSX)]
+system = PSX
+match = Street Fighter EX2 Plus
+
+[Street Fighter II- The Warrior (Arcade)]
+system = Arcade
+match = Street Fighter II- The Warrior (W, 910522)
+
+[Street Fighter II'- Champion Edition (Arcade)]
+system = Arcade
+match = Street Fighter II'- Champion Edition (W, 920513)
+
+[Street Fighter II'- Hyper Fighting (Arcade)]
+system = Arcade
+match = Street Fighter II'- Hyper Fighting (W, 921209)
+
+[Super Double Dragon (SNES)]
+system = SNES
+match = Super Double Dragon (USA)
+
+[Super Gem Fighter- Mini Mix (Arcade)]
+system = Arcade
+match = Super Gem Fighter- Mini Mix (US, 970904)
+
+[Super Street Fighter II Turbo (Arcade)]
+system = Arcade
+match = Super Street Fighter II Turbo (W, 940223)
+
+[Super Street Fighter II X- Grand Master Challenge (Arcade)]
+system = Arcade
+match = Super Street Fighter II X- Grand Master Challenge (JP, 940311)
+
+[Super Street Fighter II- The New Challengers (Arcade)]
+system = Arcade
+match = Super Street Fighter II- The New Challengers (W, 931005)
+
+[Super Street Fighter II- The Tournament Battle (Arcade)]
+system = Arcade
+match = Super Street Fighter II- The Tournament Battle (W, 931119)
+
+[Superior Soldiers (Arcade)]
+system = Arcade
+match = Superior Soldiers (US)
+
+[Teenage Mutant Ninja Turtles - Tournament Fighters (Genesis)]
+system = Genesis
+match = Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
+
+[Teenage Mutant Ninja Turtles - Tournament Fighters (SNES)]
+system = SNES
+match = Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
+
+[Tekken (PSX)]
+system = PSX
+match = Tekken
+
+[Tekken 2 (PSX)]
+system = PSX
+match = Tekken 2
+
+[Tekken 3 (PSX)]
+system = PSX
+match = Tekken 3
+
+[The King of Fighters '94 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '94
+
+[The King of Fighters '95 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '95
+
+[The King of Fighters '96 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '96
+
+[The King of Fighters '96 Collection (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '96 Collection
+
+[The King of Fighters '97 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '97
+
+[The King of Fighters '98: The Slugfest (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '98: The Slugfest
+
+[The King of Fighters '99: Millennium Battle (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters '99: Millennium Battle
+
+[The King of Fighters 2000 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters 2000
+
+[The King of Fighters 2001 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters 2001
+
+[The King of Fighters 2002: Challenge to Ultimate Battle (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters 2002: Challenge to Ultimate Battle
+
+[The King of Fighters 2003 (NeoGeo)]
+system = NeoGeo
+match = The King of Fighters 2003
+
+[The Last Blade (NeoGeo)]
+system = NeoGeo
+match = The Last Blade
+
+[The Last Blade 2 (NeoGeo)]
+system = NeoGeo
+match = The Last Blade 2
+
+[The Unholy War (PSX)]
+system = PSX
+match = The Unholy War
+
+[Thrill Kill (PSX)]
+system = PSX
+match = Thrill Kill (Proto)
+
+[Tobal No.1 (PSX)]
+system = PSX
+match = Tobal No.1
+
+[Tobal No.1 (PSX)]
+system = PSX
+match = Tobal No.1
+
+[Transformers - Beast Wars Transmetals (PSX)]
+system = PSX
+match = Transformers - Beast Wars Transmetals
+
+[Ultimate Fighting Championship (PSX)]
+system = PSX
+match = Ultimate Fighting Championship
+
+[Ultraman (Genesis)]
+system = Genesis
+match = Ultraman (Japan)
+
+[Vampire Hunter 2- Darkstalkers Revenge (Arcade)]
+system = Arcade
+match = Vampire Hunter 2- Darkstalkers Revenge (JP, 970929)
+
+[Vampire Hunter- Darkstalkers' Revenge (Arcade)]
+system = Arcade
+match = Vampire Hunter- Darkstalkers' Revenge (JP, 950316)
+
+[Vampire Savior- The Lord of Vampire (Arcade)]
+system = Arcade
+match = Vampire Savior- The Lord of Vampire (EU, 970519)
+
+[Virtua Fighter (Saturn)]
+system = Saturn
+match = Virtua Fighter (USA)
+
+[Virtua Fighter 2 (Genesis)]
+system = Genesis
+match = Virtua Fighter 2 (USA, Europe)
+
+[Virtua Fighter 2 (Saturn)]
+system = Saturn
+match = Virtua Fighter 2 (USA)
+
+[Virtua Fighter Kids (Saturn)]
+system = Saturn
+match = Virtua Fighter Kids (USA)
+
+[Virtua Fighter Remix (Saturn)]
+system = Saturn
+match = Virtua Fighter Remix (USA)
+
+[Voltage Fighter Gowcaizer (NeoGeo)]
+system = NeoGeo
+match = Voltage Fighter Gowcaizer
+
+[Vs. (PSX)]
+system = PSX
+match = Vs.
+
+[Waku Waku 7 (NeoGeo)]
+system = NeoGeo
+match = Waku Waku 7
+
+[War Gods (PSX)]
+system = PSX
+match = War Gods
+
+[Warpath - Jurassic Park (PSX)]
+system = PSX
+match = Warpath - Jurassic Park
+
+[World Heroes (NeoGeo)]
+system = NeoGeo
+match = World Heroes
+
+[World Heroes 2 (NeoGeo)]
+system = NeoGeo
+match = World Heroes 2
+
+[World Heroes 2 Jet (NeoGeo)]
+system = NeoGeo
+match = World Heroes 2 Jet
+
+[World Heroes Perfect (NeoGeo)]
+system = NeoGeo
+match = World Heroes Perfect
+
+[Wu-Tang - Shaolin Style (PSX)]
+system = PSX
+match = Wu-Tang - Shaolin Style
+
+[X-Men - Mutant Academy (PSX)]
+system = PSX
+match = X-Men - Mutant Academy
+
+[X-Men - Mutant Academy 2 (PSX)]
+system = PSX
+match = X-Men - Mutant Academy 2
+
+[X-Men Vs. Street Fighter (Arcade)]
+system = Arcade
+match = X-Men Vs. Street Fighter (EU, 961004)
+
+[X-Men- Children of the Atom (Arcade)]
+system = Arcade
+match = X-Men- Children of the Atom (EU, 950331)
+
+[Yie Ar Kung-Fu (Arcade)]
+system = Arcade
+match = Yie Ar Kung-Fu (program code I)
+
+[Zero Divide (PSX)]
+system = PSX
+match = Zero Divide
