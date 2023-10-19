@@ -1,1661 +1,1254 @@
 name = Arcade
 author = Me
-updated = 2023-10-16
+updated = 2023-10-18
 
 [1944- The Loop Master]
 system = Arcade
 match = 1944- The Loop Master (JP, 000620)
 
-
 [280Z-ZZAP]
 system = Arcade
 match = 280Z-ZZAP (US)
-
 
 [4-D Warriors]
 system = Arcade
 match = 4-D Warriors (315-5162)
 
-
 [Adventure Quiz Capcom 2]
 system = Arcade
 match = Adventure Quiz Capcom 2 (JP, 920611)
-
 
 [Akuma-Jou Dracula]
 system = Arcade
 match = Akuma-Jou Dracula (Ver. N)
 
-
 [Alex Kidd- The Lost Stars]
 system = Arcade
 match = Alex Kidd- The Lost Stars (W, S16A, Set 2)
-
 
 [Alien Arena]
 system = Arcade
 match = Alien Arena (Stargate upgrade)
 
-
 [Alien Syndrome]
 system = Arcade
 match = Alien Syndrome (W, S16B, Set 4)
-
 
 [Alien vs. Predator]
 system = Arcade
 match = Alien vs. Predator (JP, 940520)
 
-
 [Aliens]
 system = Arcade
 match = Aliens (W, Set 1)
-
 
 [Altered Beast]
 system = Arcade
 match = Altered Beast (W, Set 8)
 
-
 [Amazing Maze]
 system = Arcade
 match = Amazing Maze
-
 
 [Armored Warriors]
 system = Arcade
 match = Armored Warriors (AS, 941024)
 
-
 [Astro Flash]
 system = Arcade
 match = Astro Flash (JP)
-
-
-[Athena]
-system = Arcade
-match = Athena (Flip Fix)
-
 
 [Athena]
 system = Arcade
 match = Athena
 
-
 [Attack Force]
 system = Arcade
 match = Attack Force
-
 
 [Bad Dudes vs. Dragonninja]
 system = Arcade
 match = Bad Dudes vs. Dragonninja (US, Rev. 1)
 
-
 [Bank Panic]
 system = Arcade
 match = Bank Panic
-
 
 [Battle Circuit]
 system = Arcade
 match = Battle Circuit (EU, 970319)
 
-
 [Bay Route]
 system = Arcade
 match = Bay Route (W, Set 3)
-
 
 [Berzerk]
 system = Arcade
 match = Berzerk
 
-
 [Billiard]
 system = Arcade
 match = Billiard
-
 
 [Bionic Commando]
 system = Arcade
 match = Bionic Commando
 
-
 [Black Tiger]
 system = Arcade
 match = Black Tiger
-
 
 [Blade Master]
 system = Arcade
 match = Blade Master (W)
 
-
 [Blasto]
 system = Arcade
 match = Blasto
-
 
 [Blockade]
 system = Arcade
 match = Blockade
 
-
 [Blue Shark]
 system = Arcade
 match = Blue Shark
-
 
 [Boot Hill]
 system = Arcade
 match = Boot Hill
 
-
 [Bosconian - Star Destroyer]
 system = Arcade
 match = Bosconian - Star Destroyer (New Version)
-
 
 [Boulder Dash - Boulder Dash Part 2]
 system = Arcade
 match = Boulder Dash - Boulder Dash Part 2 (W)
 
-
 [Bubble Bobble]
 system = Arcade
 match = Bubble Bobble (JP, Ver 0.1)
-
 
 [Bubbles]
 system = Arcade
 match = Bubbles
 
-
 [Bull Fight]
 system = Arcade
 match = Bull Fight (315-5056)
-
 
 [Bullet]
 system = Arcade
 match = Bullet (W, 317-0041)
 
-
 [Cadillacs and Dinosaurs]
 system = Arcade
 match = Cadillacs and Dinosaurs (W, 930201)
-
 
 [Canyon Bomber]
 system = Arcade
 match = Canyon Bomber
 
-
 [Capcom Sports Club]
 system = Arcade
 match = Capcom Sports Club (EU, 971017)
-
 
 [Capcom World]
 system = Arcade
 match = Capcom World (JP)
 
-
 [Captain Commando]
 system = Arcade
 match = Captain Commando (JP, 920928)
-
 
 [Carrier Air Wing]
 system = Arcade
 match = Carrier Air Wing (W, 901012)
 
-
 [Chameleon]
 system = Arcade
 match = Chameleon
-
 
 [Chelnov - Atomic Runner]
 system = Arcade
 match = Chelnov - Atomic Runner (W)
 
-
 [Clowns]
 system = Arcade
 match = Clowns
-
 
 [Combat School]
 system = Arcade
 match = Combat School (Joystick)
 
-
 [CoMotion]
 system = Arcade
 match = CoMotion
-
 
 [Cosmic Avenger]
 system = Arcade
 match = Cosmic Avenger
 
-
 [Cosmic Guerilla]
 system = Arcade
 match = Cosmic Guerilla
-
 
 [Cotton]
 system = Arcade
 match = Cotton (W, Set 4)
 
-
 [Country Club]
 system = Arcade
 match = Country Club
-
 
 [Crater Raider]
 system = Arcade
 match = Crater Raider
 
-
 [Crazy Climber]
 system = Arcade
 match = Crazy Climber
-
 
 [Crazy Kong Part II]
 system = Arcade
 match = Crazy Kong Part II (alternative levels)
 
-
 [Crime Fighters]
 system = Arcade
 match = Crime Fighters (JP, 2P)
-
-
-[Crime Fighters]
-system = Arcade
-match = Crime Fighters (US, 4P)
-
 
 [Crystal Castles]
 system = Arcade
 match = Crystal Castles
 
-
 [Cyberbots- Fullmetal Madness]
 system = Arcade
 match = Cyberbots- Fullmetal Madness (EU, 950424)
-
 
 [Daiku no Gensan]
 system = Arcade
 match = Daiku no Gensan (JP, M72 hardware)
 
-
 [Daimakaimura]
 system = Arcade
 match = Daimakaimura (JP)
-
 
 [Dark Planet]
 system = Arcade
 match = Dark Planet
 
-
 [Darkstalkers- The Night Warriors]
 system = Arcade
 match = Darkstalkers- The Night Warriors (EU, 940705)
-
 
 [Defender]
 system = Arcade
 match = Defender (Red Label)
 
-
 [Demolition Derby]
 system = Arcade
 match = Demolition Derby (MCR-3 Mono Board Version)
-
 
 [Discs of Tron]
 system = Arcade
 match = Discs of Tron
 
-
 [Dokaben]
 system = Arcade
 match = Dokaben (JP)
-
 
 [Domino Man]
 system = Arcade
 match = Domino Man
 
-
 [Dominos]
 system = Arcade
 match = Dominos
-
 
 [Dottori-Kun]
 system = Arcade
 match = Dottori-Kun (New)
 
-
-[Dottori-Kun]
-system = Arcade
-match = Dottori-Kun (Old)
-
-
 [Double Dragon]
 system = Arcade
 match = Double Dragon (JP)
-
 
 [Double Dragon II- The Revenge]
 system = Arcade
 match = Double Dragon II- The Revenge (JP)
 
-
 [Dragon Breed]
 system = Arcade
 match = Dragon Breed (JP)
-
 
 [Dragonninja]
 system = Arcade
 match = Dragonninja (JP, Rev. 1)
 
-
 [Dream Soccer '94]
 system = Arcade
 match = Dream Soccer '94 (JP, M92)
-
 
 [Dungeons & Dragons- Shadow over Mystara]
 system = Arcade
 match = Dungeons & Dragons- Shadow over Mystara (EU, 960619)
 
-
 [Dungeons & Dragons- Tower of Doom]
 system = Arcade
 match = Dungeons & Dragons- Tower of Doom (EU, 940412)
-
 
 [Dunk Shot]
 system = Arcade
 match = Dunk Shot (W, Rev C)
 
-
 [Dynamite Dux]
 system = Arcade
 match = Dynamite Dux (W, Set 3)
-
 
 [Dynasty Wars]
 system = Arcade
 match = Dynasty Wars (US, 89624B)
 
-
 [E-Swat - Cyber Police]
 system = Arcade
 match = E-Swat - Cyber Police (W, Set 4)
-
 
 [Eco Fighters]
 system = Arcade
 match = Eco Fighters (W, 931203)
 
-
 [Elevator Action [bl]]
 system = Arcade
 match = Elevator Action [bl]
-
 
 [Excite League]
 system = Arcade
 match = Excite League (W)
 
-
 [Express Raider]
 system = Arcade
 match = Express Raider (W, Rev 4)
-
 
 [Extra Bases]
 system = Arcade
 match = Extra Bases
 
-
 [F-1 Dream]
 system = Arcade
 match = F-1 Dream
-
 
 [Fantasy Zone]
 system = Arcade
 match = Fantasy Zone (W, Rev A)
 
-
 [Fantasy Zone II - The Tears of Opa-Opa]
 system = Arcade
 match = Fantasy Zone II - The Tears of Opa-Opa (S16C)
-
-
-[Fantasy Zone II - The Tears of Opa-Opa]
-system = Arcade
-match = Fantasy Zone II - The Tears of Opa-Opa (SSE)
-
 
 [Fighting Golf]
 system = Arcade
 match = Fighting Golf
 
-
 [Final Fight]
 system = Arcade
 match = Final Fight (JP, 900613)
-
 
 [Flash Point]
 system = Arcade
 match = Flash Point (JP, Set 2)
 
-
 [Flicky]
 system = Arcade
 match = Flicky (128k Ver)
-
 
 [Food Fight]
 system = Arcade
 match = Food Fight (Rev 3)
 
-
 [Forgotten Worlds]
 system = Arcade
 match = Forgotten Worlds (W, Newer)
-
 
 [Frenzy]
 system = Arcade
 match = Frenzy (Rev RA1)
 
-
 [Gaia Crusaders]
 system = Arcade
 match = Gaia Crusaders
-
 
 [Gallop - Armed Police Unit]
 system = Arcade
 match = Gallop - Armed Police Unit (JP, M72 hardware)
 
-
 [Gauntlet]
 system = Arcade
 match = Gauntlet (Rev 14)
-
 
 [Gauntlet II]
 system = Arcade
 match = Gauntlet II
 
-
 [Ghosts'n Goblins]
 system = Arcade
 match = Ghosts'n Goblins (W)
-
-
-[Ghouls'n Ghosts]
-system = Arcade
-match = Ghouls'n Ghosts (W)
-
 
 [Giga Wing]
 system = Arcade
 match = Giga Wing (US, 990222)
 
-
 [Golden Axe]
 system = Arcade
 match = Golden Axe (US, Set 6)
-
 
 [Gorodki]
 system = Arcade
 match = Gorodki
 
-
 [Green Beret]
 system = Arcade
 match = Green Beret
-
 
 [Gulun.Pa]
 system = Arcade
 match = Gulun.Pa (931220 L, Prototype)
 
-
 [Gun Fight]
 system = Arcade
 match = Gun Fight
-
 
 [Gun Force]
 system = Arcade
 match = Gun Force (JP)
 
-
 [Gun Force II]
 system = Arcade
 match = Gun Force II (US)
-
 
 [Hammerin' Harry]
 system = Arcade
 match = Hammerin' Harry (US, M84 hardware)
 
-
 [Hang-On Jr.]
 system = Arcade
 match = Hang-On Jr. (Rev. B)
-
 
 [Haunted Castle]
 system = Arcade
 match = Haunted Castle (Ver. K)
 
-
 [Hippodrome]
 system = Arcade
 match = Hippodrome (US)
-
 
 [Hook]
 system = Arcade
 match = Hook (W)
 
-
 [Horizon]
 system = Arcade
 match = Horizon (Irem)
-
 
 [Hustle]
 system = Arcade
 match = Hustle
 
-
 [Hyper Sports]
 system = Arcade
 match = Hyper Sports
-
 
 [Hyper Street Fighter II- The Anniversary Edition]
 system = Arcade
 match = Hyper Street Fighter II- The Anniversary Edition (US, 040202)
 
-
 [I'm Sorry]
 system = Arcade
 match = I'm Sorry (US, 315-5110)
-
 
 [In The Hunt]
 system = Arcade
 match = In The Hunt (W)
 
-
 [Inferno]
 system = Arcade
 match = Inferno (Williams)
-
 
 [Insector X]
 system = Arcade
 match = Insector X (W)
 
-
 [Iron Horse]
 system = Arcade
 match = Iron Horse (Ver. K)
-
 
 [Jailbreak]
 system = Arcade
 match = Jailbreak
 
-
 [Janpai Puzzle Choukou]
 system = Arcade
 match = Janpai Puzzle Choukou (JP, 010820)
-
 
 [Joust]
 system = Arcade
 match = Joust
 
-
 [Jungle King]
 system = Arcade
 match = Jungle King (JP)
-
 
 [Jyangokushi- Haoh no Saihai]
 system = Arcade
 match = Jyangokushi- Haoh no Saihai (JP, 990527)
 
-
 [Karnov]
 system = Arcade
 match = Karnov (US, Rev 6)
-
 
 [Kick and Run]
 system = Arcade
 match = Kick and Run (W)
 
-
 [Kid Niki- Radical Ninja]
 system = Arcade
 match = Kid Niki- Radical Ninja (W)
-
 
 [Knights of the Round]
 system = Arcade
 match = Knights of the Round (W, 911127)
 
-
 [Konami's Ping-Pong]
 system = Arcade
 match = Konami's Ping-Pong
-
 
 [Konek Gorbunok]
 system = Arcade
 match = Konek Gorbunok
 
-
 [Kot-Rybolov]
 system = Arcade
 match = Kot-Rybolov
-
 
 [Kozmik Krooz'r]
 system = Arcade
 match = Kozmik Krooz'r
 
-
 [Kung-Fu Master]
 system = Arcade
 match = Kung-Fu Master (W)
-
 
 [Legend of Hero Tonma]
 system = Arcade
 match = Legend of Hero Tonma (JP)
 
-
 [Limited Edition Hang-On]
 system = Arcade
 match = Limited Edition Hang-On
-
 
 [Lode Runner]
 system = Arcade
 match = Lode Runner (Set 1)
 
-
 [Lode Runner II- The Bungeling Strikes Back]
 system = Arcade
 match = Lode Runner II- The Bungeling Strikes Back
-
 
 [Lode Runner III- The Golden Labyrinth]
 system = Arcade
 match = Lode Runner III- The Golden Labyrinth
 
-
 [Lode Runner IV- Teikoku Karano Dasshutsu]
 system = Arcade
 match = Lode Runner IV- Teikoku Karano Dasshutsu (JP)
-
 
 [Losts]
 system = Arcade
 match = Losts (JP)
 
-
 [M.I.A. - Missing in Action]
 system = Arcade
 match = M.I.A. - Missing in Action (Ver. T)
-
 
 [Magic Sword- Heroic Fantasy]
 system = Arcade
 match = Magic Sword- Heroic Fantasy (W, 900725)
 
-
 [Magical Pumpkin - Puroland de Daibouken]
 system = Arcade
 match = Magical Pumpkin - Puroland de Daibouken (JP)
-
 
 [Major Title 2]
 system = Arcade
 match = Major Title 2 (W, Set 1)
 
-
 [Manhattan 24 Bunsyo]
 system = Arcade
 match = Manhattan 24 Bunsyo (JP)
-
 
 [Mario Bros.]
 system = Arcade
 match = Mario Bros. (US, Rev G)
 
-
 [Mars Matrix- Hyper Solid Shooting]
 system = Arcade
 match = Mars Matrix- Hyper Solid Shooting (AS, 000412)
-
 
 [Marvel Super Heroes]
 system = Arcade
 match = Marvel Super Heroes (EU, 951024)
 
-
 [Marvel Super Heroes Vs. Street Fighter]
 system = Arcade
 match = Marvel Super Heroes Vs. Street Fighter (EU, 970625)
-
 
 [Marvel Vs. Capcom- Clash of Super Heroes]
 system = Arcade
 match = Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)
 
-
 [Max RPM]
 system = Arcade
 match = Max RPM (v2)
-
 
 [Mayday]
 system = Arcade
 match = Mayday (Set 1)
 
-
 [Mega Man 2- The Power Fighters]
 system = Arcade
 match = Mega Man 2- The Power Fighters (US, 960708)
-
 
 [Mega Man- The Power Battle]
 system = Arcade
 match = Mega Man- The Power Battle (US, 951006)
 
-
 [Mega Twins]
 system = Arcade
 match = Mega Twins (W, 900619)
-
 
 [Midnight Resistance]
 system = Arcade
 match = Midnight Resistance (W)
 
-
 [Mighty! Pang]
 system = Arcade
 match = Mighty! Pang (EU, 001010)
-
 
 [Missile Command]
 system = Arcade
 match = Missile Command (rev 3)
 
-
 [Moon Patrol]
 system = Arcade
 match = Moon Patrol
-
 
 [Mr. Goemon]
 system = Arcade
 match = Mr. Goemon
 
-
 [Mr. HELI no Daibouken]
 system = Arcade
 match = Mr. HELI no Daibouken (JP)
-
 
 [Muscle Bomber Duo- Ultimate Team Battle]
 system = Arcade
 match = Muscle Bomber Duo- Ultimate Team Battle (W, 931206)
 
-
 [MVP]
 system = Arcade
 match = MVP (US, Set 2)
-
 
 [My Hero]
 system = Arcade
 match = My Hero (US, not Encrypted)
 
-
 [Mystic Marathon]
 system = Arcade
 match = Mystic Marathon
-
 
 [Mystic Riders]
 system = Arcade
 match = Mystic Riders (W)
 
-
 [Nemo]
 system = Arcade
 match = Nemo (W, 901130)
-
 
 [New Rally-X]
 system = Arcade
 match = New Rally-X
 
-
 [New Tropical Angel]
 system = Arcade
 match = New Tropical Angel
-
 
 [Night Warriors- Darkstalkers' Revenge]
 system = Arcade
 match = Night Warriors- Darkstalkers' Revenge (EU, 950316)
 
-
 [Ninja Baseball Bat Man]
 system = Arcade
 match = Ninja Baseball Bat Man (W)
-
 
 [Ninja Spirit]
 system = Arcade
 match = Ninja Spirit (JP)
 
-
 [Ninjakun Majou no Bouken]
 system = Arcade
 match = Ninjakun Majou no Bouken
-
-
-[Nova 2001]
-system = Arcade
-match = Nova 2001 (Hack)
-
 
 [Nova 2001]
 system = Arcade
 match = Nova 2001
 
-
 [Out Run]
 system = Arcade
 match = Out Run (sitdown - upright, Rev B) (Enhanced Edition v2.0.3)
-
 
 [Out Run]
 system = Arcade
 match = Out Run (sitdown - upright, Rev B)
 
-
 [Pang! 3]
 system = Arcade
 match = Pang! 3 (EU, 950601)
-
 
 [Pang]
 system = Arcade
 match = Pang
 
-
-[Penguin-Kun Wars]
-system = Arcade
-match = Penguin-Kun Wars (JP)
-
-
 [Penguin-Kun Wars]
 system = Arcade
 match = Penguin-Kun Wars (US)
-
 
 [Pest Place]
 system = Arcade
 match = Pest Place
 
-
 [Pirate Pete]
 system = Arcade
 match = Pirate Pete
-
 
 [Pirate Ship Higemaru]
 system = Arcade
 match = Pirate Ship Higemaru
 
-
 [Pitfall II]
 system = Arcade
 match = Pitfall II
-
 
 [Pnickies]
 system = Arcade
 match = Pnickies (JP, 940608)
 
-
 [Pokonyan! Balloon]
 system = Arcade
 match = Pokonyan! Balloon (JP, 940322)
-
 
 [Poly Play 2]
 system = Arcade
 match = Poly Play 2
 
-
 [Poly Play]
 system = Arcade
 match = Poly Play
-
 
 [Pong]
 system = Arcade
 match = Pong (Rev E)
 
-
 [Ponpoko]
 system = Arcade
 match = Ponpoko
-
 
 [Popeye]
 system = Arcade
 match = Popeye (Rev D)
 
-
 [Portman]
 system = Arcade
 match = Portman (Galaxian Hardware)
-
 
 [Power Drive]
 system = Arcade
 match = Power Drive
 
-
 [Progear]
 system = Arcade
 match = Progear (US, 010117)
-
 
 [Punk Shot]
 system = Arcade
 match = Punk Shot (JP, 2P)
 
-
-[Punk Shot]
-system = Arcade
-match = Punk Shot (US, 4P)
-
-
 [Puzz Loop 2]
 system = Arcade
 match = Puzz Loop 2 (EU, 010302)
-
 
 [Puzzle Uo Poko]
 system = Arcade
 match = Puzzle Uo Poko (JP)
 
-
 [Quatret 2]
 system = Arcade
 match = Quatret 2 (W, No Protection)
-
 
 [Quiz & Dragons- Capcom Quiz Game]
 system = Arcade
 match = Quiz & Dragons- Capcom Quiz Game (US, 920701)
 
-
 [Quiz Nanairo Dreams- Nijiirochou no Kiseki]
 system = Arcade
 match = Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826)
-
 
 [Quiz Tonosama no Yabou 2- Zenkoku-ban]
 system = Arcade
 match = Quiz Tonosama no Yabou 2- Zenkoku-ban (JP, 950123)
 
-
-[R-Type]
-system = Arcade
-match = R-Type (JP)
-
-
 [R-Type]
 system = Arcade
 match = R-Type (W)
-
 
 [R-Type II]
 system = Arcade
 match = R-Type II (W)
 
-
 [R-Type Leo]
 system = Arcade
 match = R-Type Leo (W)
-
 
 [Raiders5]
 system = Arcade
 match = Raiders5
 
-
 [Rally-X]
 system = Arcade
 match = Rally-X (32k Ver)
-
 
 [Rampage]
 system = Arcade
 match = Rampage (Rev 3, 860827)
 
-
 [Rastan]
 system = Arcade
 match = Rastan (W, Rev 1)
-
 
 [Renegade]
 system = Arcade
 match = Renegade (US) [bl]
 
-
 [Ring of Destruction- Slam Masters II]
 system = Arcade
 match = Ring of Destruction- Slam Masters II (EU, 940902)
-
 
 [Riot City]
 system = Arcade
 match = Riot City (JP)
 
-
 [River Patrol]
 system = Arcade
 match = River Patrol (JP, Unprotected)
-
 
 [Robocop]
 system = Arcade
 match = Robocop (W, Rev 4)
 
-
 [Robotron 2084]
 system = Arcade
 match = Robotron 2084
-
 
 [Rygar]
 system = Arcade
 match = Rygar
 
-
 [RyuKyu]
 system = Arcade
 match = RyuKyu (JP, Rev A) 317-5023A
-
 
 [S.O.S.]
 system = Arcade
 match = S.O.S.
 
-
 [Sarge]
 system = Arcade
 match = Sarge
-
 
 [Saturday Night Slam Masters]
 system = Arcade
 match = Saturday Night Slam Masters (W, 930713)
 
-
-[SDI- Strategic Defense Initiative]
-system = Arcade
-match = SDI- Strategic Defense Initiative (JP, S16A, New Ver.)
-
-
 [SDI- Strategic Defense Initiative]
 system = Arcade
 match = SDI- Strategic Defense Initiative (W, S16B)
-
 
 [Sea Wolf]
 system = Arcade
 match = Sea Wolf (Set 1)
 
-
 [Sea Wolf II]
 system = Arcade
 match = Sea Wolf II
-
 
 [Secret Agent]
 system = Arcade
 match = Secret Agent (W, Rev 3)
 
-
 [Section Z]
 system = Arcade
 match = Section Z
-
 
 [Sega Ninja]
 system = Arcade
 match = Sega Ninja (315-5102)
 
-
 [Shinobi]
 system = Arcade
 match = Shinobi (W, S16A, Set 6)
-
-
-[Shinobi]
-system = Arcade
-match = Shinobi (W, S16B, Set 6), No Protection
-
 
 [Side Arms- Hyper Dyne]
 system = Arcade
 match = Side Arms- Hyper Dyne (W)
 
-
 [Silk Worm]
 system = Arcade
 match = Silk Worm
-
 
 [Silver Land]
 system = Arcade
 match = Silver Land
 
-
 [Sky Skipper]
 system = Arcade
 match = Sky Skipper
-
 
 [Slap Shooter]
 system = Arcade
 match = Slap Shooter
 
-
 [Snap Jack]
 system = Arcade
 match = Snap Jack
-
 
 [Snezhnaja Koroleva]
 system = Arcade
 match = Snezhnaja Koroleva
 
-
 [Solomon's Key]
 system = Arcade
 match = Solomon's Key
-
 
 [SonSon]
 system = Arcade
 match = SonSon
 
-
 [Space Encounters]
 system = Arcade
 match = Space Encounters
-
 
 [Space Race]
 system = Arcade
 match = Space Race
 
-
 [Space Seeker]
 system = Arcade
 match = Space Seeker
-
 
 [Space Zap]
 system = Arcade
 match = Space Zap
 
-
 [Spelunker II - 23 no Kagi]
 system = Arcade
 match = Spelunker II - 23 no Kagi (JP)
-
 
 [Spelunker]
 system = Arcade
 match = Spelunker
 
-
 [Splat!]
 system = Arcade
 match = Splat!
-
 
 [Sprint 1]
 system = Arcade
 match = Sprint 1
 
-
 [Sprint 2]
 system = Arcade
 match = Sprint 2
-
 
 [Squash]
 system = Arcade
 match = Squash (Itisa)
 
-
 [Star Guards]
 system = Arcade
 match = Star Guards
-
 
 [Stargate]
 system = Arcade
 match = Stargate
 
-
 [Strategy X]
 system = Arcade
 match = Strategy X
-
 
 [Street Fighter]
 system = Arcade
 match = Street Fighter (US, Set 1)
 
-
 [Street Fighter Alpha 2]
 system = Arcade
 match = Street Fighter Alpha 2 (EU, 960229)
-
 
 [Street Fighter Alpha 3]
 system = Arcade
 match = Street Fighter Alpha 3 (EU, 980904)
 
-
-[Street Fighter Alpha- Warriors' Dreams]
-system = Arcade
-match = Street Fighter Alpha- Warriors' Dreams (EU, 950727)
-
-
 [Street Fighter Alpha- Warriors' Dreams]
 system = Arcade
 match = Street Fighter Alpha- Warriors' Dreams (US, CPS Changer, 950727)
-
 
 [Street Fighter II- The Warrior]
 system = Arcade
 match = Street Fighter II- The Warrior (W, 910522)
 
-
 [Street Fighter II'- Champion Edition]
 system = Arcade
 match = Street Fighter II'- Champion Edition (W, 920513)
-
 
 [Street Fighter II'- Hyper Fighting]
 system = Arcade
 match = Street Fighter II'- Hyper Fighting (W, 921209)
 
-
 [Strider]
 system = Arcade
 match = Strider (US, B-Board, 89624B-2)
-
 
 [Subs]
 system = Arcade
 match = Subs
 
-
 [Sukeban Jansi Ryuko]
 system = Arcade
 match = Sukeban Jansi Ryuko (W, S16B, Set 2)
-
 
 [Super Gem Fighter- Mini Mix]
 system = Arcade
 match = Super Gem Fighter- Mini Mix (US, 970904)
 
-
 [Super Hang-On]
 system = Arcade
 match = Super Hang-On (sitdown - upright) (unprotected)
-
 
 [Super League]
 system = Arcade
 match = Super League (W)
 
-
 [Super Muscle Bomber- The International Blowout]
 system = Arcade
 match = Super Muscle Bomber- The International Blowout (JP, 940831)
-
 
 [Super Pang]
 system = Arcade
 match = Super Pang (W, 900914)
 
-
-[Super Puzzle Fighter II Turbo]
-system = Arcade
-match = Super Puzzle Fighter II Turbo (EU, 960529)
-
-
 [Super Street Fighter II Turbo]
 system = Arcade
 match = Super Street Fighter II Turbo (W, 940223)
-
 
 [Super Street Fighter II X- Grand Master Challenge]
 system = Arcade
 match = Super Street Fighter II X- Grand Master Challenge (JP, 940311)
 
-
 [Super Street Fighter II- The New Challengers]
 system = Arcade
 match = Super Street Fighter II- The New Challengers (W, 931005)
-
 
 [Super Street Fighter II- The Tournament Battle]
 system = Arcade
 match = Super Street Fighter II- The Tournament Battle (W, 931119)
 
-
 [Superior Soldiers]
 system = Arcade
 match = Superior Soldiers (US)
-
 
 [Tapper]
 system = Arcade
 match = Tapper (Budweiser, 840127)
 
-
 [TeddyBoy Blues]
 system = Arcade
 match = TeddyBoy Blues (315-5115, New Ver)
-
 
 [Teenage Mutant Ninja Turtles]
 system = Arcade
 match = Teenage Mutant Ninja Turtles (JP, 2P, Ver. 1)
 
-
-[Teenage Mutant Ninja Turtles]
-system = Arcade
-match = Teenage Mutant Ninja Turtles (W, 4P, Ver. X)
-
-
 [Tenchi wo Kurau II Sekiheki no Tatakai]
 system = Arcade
 match = Tenchi wo Kurau II Sekiheki no Tatakai (CPS Changer, Japan 921031)
-
-
-[Tetris]
-system = Arcade
-match = Tetris (JP, S16A, Set 4)
-
-
-[Tetris]
-system = Arcade
-match = Tetris (JP, S16B, Set 1)
-
-
-[Tetris]
-system = Arcade
-match = Tetris (JP, System E)
-
 
 [Tetris]
 system = Arcade
 match = Tetris
 
-
 [The Adventures of Robby Roto!]
 system = Arcade
 match = The Adventures of Robby Roto!
-
 
 [The Final Round]
 system = Arcade
 match = The Final Round (Ver. M)
 
-
 [The King of Dragons]
 system = Arcade
 match = The King of Dragons (W, 910805)
-
 
 [The NewZealand Story]
 system = Arcade
 match = The NewZealand Story (W, old version)
 
-
 [The Punisher]
 system = Arcade
 match = The Punisher (W, 930422)
-
 
 [The Simpsons]
 system = Arcade
 match = The Simpsons (JP, 2P)
 
-
-[The Simpsons]
-system = Arcade
-match = The Simpsons (W, 4P, Set 1)
-
-
 [Three Wonders]
 system = Arcade
 match = Three Wonders (W, 910520)
-
 
 [Thunder Heroes]
 system = Arcade
 match = Thunder Heroes
 
-
 [Tiger Road]
 system = Arcade
 match = Tiger Road
-
 
 [Timber]
 system = Arcade
 match = Timber
 
-
 [Time Tunnel]
 system = Arcade
 match = Time Tunnel
-
 
 [Toryumon]
 system = Arcade
 match = Toryumon
 
-
 [Track & Field]
 system = Arcade
 match = Track & Field
-
-
-[Trojan]
-system = Arcade
-match = Trojan (Romstar)
-
 
 [Trojan]
 system = Arcade
 match = Trojan (US, Set 1)
 
-
 [Tropical Angel]
 system = Arcade
 match = Tropical Angel
-
 
 [Turbo Out Run]
 system = Arcade
 match = Turbo Out Run (Out Run upgrade) (FD1094 317-0118)
 
-
 [Turkey Shoot - The Day They Took Over]
 system = Arcade
 match = Turkey Shoot - The Day They Took Over
-
 
 [Two Tigers]
 system = Arcade
 match = Two Tigers (Tron Conversion)
 
-
 [U.N. Squadron]
 system = Arcade
 match = U.N. Squadron (US)
-
 
 [U.S. Championship V'ball]
 system = Arcade
 match = U.S. Championship V'ball (US)
 
-
 [Ultra Tank]
 system = Arcade
 match = Ultra Tank
-
 
 [Undercover Cops - Alpha Renewal Version]
 system = Arcade
 match = Undercover Cops - Alpha Renewal Version (W)
 
-
 [Undercover Cops]
 system = Arcade
 match = Undercover Cops (JP)
-
 
 [Vampire Hunter 2- Darkstalkers Revenge]
 system = Arcade
 match = Vampire Hunter 2- Darkstalkers Revenge (JP, 970929)
 
-
 [Vampire Hunter- Darkstalkers' Revenge]
 system = Arcade
 match = Vampire Hunter- Darkstalkers' Revenge (JP, 950316)
-
 
 [Vampire Savior- The Lord of Vampire]
 system = Arcade
 match = Vampire Savior- The Lord of Vampire (EU, 970519)
 
-
 [Vigilante]
 system = Arcade
 match = Vigilante (JP, Rev D)
-
 
 [Vindicators Part II]
 system = Arcade
 match = Vindicators Part II (Rev 3)
 
-
 [Wacko]
 system = Arcade
 match = Wacko
-
 
 [Warriors of Fate]
 system = Arcade
 match = Warriors of Fate (W, 921031)
 
-
 [Willow]
 system = Arcade
 match = Willow (W)
-
 
 [Wizard of Wor]
 system = Arcade
 match = Wizard of Wor
 
-
 [Wonder Boy]
 system = Arcade
 match = Wonder Boy (Set 1, 315-5177)
-
 
 [Wonder Boy III - Monster Lair]
 system = Arcade
 match = Wonder Boy III - Monster Lair (W, S16B Set 6)
 
-
 [Wrestle War]
 system = Arcade
 match = Wrestle War (W, Set 3)
-
 
 [X Multiply]
 system = Arcade
 match = X Multiply (JP, M72 hardware)
 
-
 [X-Men Vs. Street Fighter]
 system = Arcade
 match = X-Men Vs. Street Fighter (EU, 961004)
-
 
 [X-Men- Children of the Atom]
 system = Arcade
 match = X-Men- Children of the Atom (EU, 950331)
 
-
 [Xain'd Sleena [bl]]
 system = Arcade
 match = Xain'd Sleena [bl]
-
 
 [Yie Ar Kung-Fu]
 system = Arcade
