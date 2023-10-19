@@ -1,10 +1,10 @@
-name = Wrestling Games
+name = (Wrestling Games)
 author = aryko1872
 updated = 2023-10-17
 
 [3 Count Bout (NeoGeo)]
 system = NeoGeo
-match = 3 Count Bout
+match = 3countb
 
 [ECW Anarchy Rulz (PSX)]
 system = PSX
@@ -16,11 +16,15 @@ match = ECW Hardcore Revolution
 
 [King of the Monsters (NeoGeo)]
 system = NeoGeo
-match = King of the Monsters
+match = kotm
 
-[King of the Monsters 2 (NeoGeo)]
+[King of the Monsters 2: The Next Thing (NeoGeo)]
 system = NeoGeo
-match = King of the Monsters 2
+match = kotm2
+
+[Kizuna Encounter: Super Tag Battle (NeoGeo)]
+system = NeoGeo
+match = kizuna
 
 [Muscle Bomber Duo- Ultimate Team Battle (Arcade)]
 system = Arcade

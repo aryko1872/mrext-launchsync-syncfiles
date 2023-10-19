@@ -1,4 +1,4 @@
-name = Platformers
+name = (Platformers)
 author = aryko1872
 updated = 2023-10-17
 
@@ -16,11 +16,11 @@ match = Astal (USA)
 
 [Bang Bang Busters (NeoGeo)]
 system = NeoGeo
-match = Bang Bang Busters
+match = b2b
 
 [Blue's Journey (NeoGeo)]
 system = NeoGeo
-match = Blue's Journey
+match = bjourney
 
 [Bubble Bobble (Arcade)]
 system = Arcade
@@ -108,7 +108,7 @@ match = Lode Runner IV- Teikoku Karano Dasshutsu (JP)
 
 [Magician Lord (NeoGeo)]
 system = NeoGeo
-match = Magician Lord
+match = maglord
 
 [Mario Bros. (Arcade)]
 system = Arcade
@@ -124,7 +124,7 @@ match = Muppet Monster Adventure
 
 [Nightmare in the Dark (NeoGeo)]
 system = NeoGeo
-match = Nightmare in the Dark
+match = nitd
 
 [Nights Into Dreams... (Saturn)]
 system = Saturn
@@ -204,7 +204,7 @@ match = Spelunker II - 23 no Kagi (JP)
 
 [Spinmaster (NeoGeo)]
 system = NeoGeo
-match = Spinmaster
+match = spinmast
 
 [Tapper (Arcade)]
 system = Arcade
@@ -224,7 +224,7 @@ match = Timber
 
 [Top Hunter: Roddy & Cathy (NeoGeo)]
 system = NeoGeo
-match = Top Hunter: Roddy & Cathy
+match = tophuntr
 
 [Treasures of the Deep (PSX)]
 system = PSX
@@ -234,6 +234,6 @@ match = Treasures of the Deep
 system = MegaCD
 match = Wild Woody
 
-[ZuPaPa! (NeoGeo)]
+[Zupapa! (NeoGeo)]
 system = NeoGeo
-match = ZuPaPa!
+match = zupapa

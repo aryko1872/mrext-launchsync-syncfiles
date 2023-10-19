@@ -1,7 +1,6 @@
-name = Beat 'em ups
+name = (Beat 'em ups)
 author = aryko1872
 updated = 2023-10-17
-
 [Adventures of Batman & Robin (MegaCD)]
 system = MegaCD
 match = Adventures of Batman & Robin
@@ -44,7 +43,7 @@ match = Blade Master (W)
 
 [Burning Fight (NeoGeo)]
 system = NeoGeo
-match = Burning Fight
+match = burningf
 
 [Cadillacs and Dinosaurs (Arcade)]
 system = Arcade
@@ -92,7 +91,7 @@ match = Dynasty Wars (US, 89624B)
 
 [Eight Man (NeoGeo)]
 system = NeoGeo
-match = Eight Man
+match = eightman
 
 [Fighting Force (PSX)]
 system = PSX
@@ -138,6 +137,10 @@ match = Gekido - Urban Fighters
 system = Arcade
 match = Golden Axe (US, Set 6)
 
+[Guardian Heroes (Saturn)]
+system = Saturn
+match = Guardian Heroes (USA)
+
 [Hook (Arcade)]
 system = Arcade
 match = Hook (W)
@@ -149,6 +152,10 @@ match = Incredible Hulk, The - The Pantheon Saga
 [Jackie Chan Stuntmaster (PSX)]
 system = PSX
 match = Jackie Chan Stuntmaster
+
+[Janshin Densetsu: Quest of Jongmaster (NeoGeo)]
+system = NeoGeo
+match = janshin
 
 [Kaizou Choujin Shubibinman 3 - Ikai no Princess (TurboGrafx16CD)]
 system = TurboGrafx16CD
@@ -168,7 +175,7 @@ match = Legend of Hero Tonma (JP)
 
 [Legend of Success Joe (NeoGeo)]
 system = NeoGeo
-match = Legend of Success Joe
+match = legendos
 
 [Marvel Super Heroes in War of the Gems (SNES)]
 system = SNES
@@ -188,7 +195,7 @@ match = Mortal Kombat Mythologies - Sub-Zero
 
 [Mutation Nation (NeoGeo)]
 system = NeoGeo
-match = Mutation Nation
+match = mutnat
 
 [My Hero (Arcade)]
 system = Arcade
@@ -200,7 +207,7 @@ match = Ninja Baseball Bat Man (W)
 
 [Ninja Combat (NeoGeo)]
 system = NeoGeo
-match = Ninja Combat
+match = ncombat
 
 [Ninja Spirit (Arcade)]
 system = Arcade
@@ -216,19 +223,19 @@ match = Riot City (JP)
 
 [Robo Army (NeoGeo)]
 system = NeoGeo
-match = Robo Army
+match = roboarmy
 
 [Sengoku (NeoGeo)]
 system = NeoGeo
-match = Sengoku
+match = sengoku
 
 [Sengoku 2 (NeoGeo)]
 system = NeoGeo
-match = Sengoku 2
+match = sengoku2
 
 [Sengoku 3 (NeoGeo)]
 system = NeoGeo
-match = Sengoku 3
+match = sengoku3
 
 [Spawn - The Eternal (PSX)]
 system = PSX
@@ -326,10 +333,6 @@ match = The Punisher (W, 930422)
 system = Arcade
 match = The Simpsons (JP, 2P)
 
-[Guardian Heroes (Saturn)]
-system = Saturn
-match = Guardian Heroes (USA)
-
 [Three Dirty Dwarves (Saturn)]
 system = Saturn
 match = Three Dirty Dwarves (USA)
@@ -369,3 +372,4 @@ match = X-Men (USA)
 [X-Men 2 - Clone Wars (Genesis)]
 system = Genesis
 match = X-Men 2 - Clone Wars (USA, Europe)
+

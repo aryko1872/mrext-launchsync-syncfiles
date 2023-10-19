@@ -1,4 +1,4 @@
-name = Fighting Platformers
+name = (Fighting Platformers)
 author = aryko1872
 updated = 2023-10-17
 
@@ -26,6 +26,14 @@ match = Bad Dudes vs. Dragonninja (US, Rev. 1)
 system = Arcade
 match = Black Tiger
 
+[Crossed Swords (NeoGeo)]
+system = NeoGeo
+match = crsword
+
+[Crossed Swords 2 (NeoGeo)]
+system = NeoGeo
+match = crswd2bl
+
 [Daiku no Gensan (Arcade)]
 system = Arcade
 match = Daiku no Gensan (JP, M72 hardware)
@@ -44,7 +52,7 @@ match = Express Raider (W, Rev 4)
 
 [Ganryu (NeoGeo)]
 system = NeoGeo
-match = Ganryu
+match = ganryu
 
 [Ghosts'n Goblins (Arcade)]
 system = Arcade

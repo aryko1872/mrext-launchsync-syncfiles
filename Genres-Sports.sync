@@ -1,22 +1,26 @@
-name = Sports
+name = (Sports Games)
 author = aryko1872
 updated = 2023-10-17
 
+[2020 Super Baseball (NeoGeo)]
+system = NeoGeo
+match = 2020bb
+
 [Bang Bead (NeoGeo)]
 system = NeoGeo
-match = Bang Bead
+match = bangbead
 
 [Baseball Stars 2 (NeoGeo)]
 system = NeoGeo
-match = Baseball Stars 2
+match = bstars2
 
 [Baseball Stars Professional (NeoGeo)]
 system = NeoGeo
-match = Baseball Stars Professional
+match = bstars
 
 [Battle Flip Shot (NeoGeo)]
 system = NeoGeo
-match = Battle Flip Shot
+match = flipshot
 
 [BattleSport (PSX)]
 system = PSX
@@ -116,7 +120,7 @@ match = Fisherman's Bait 2 - Big Ol' Bass
 
 [Football Frenzy (NeoGeo)]
 system = NeoGeo
-match = Football Frenzy
+match = fbfrenzy
 
 [Freestyle Boardin' '99 (PSX)]
 system = PSX
@@ -132,7 +136,7 @@ match = Goal Storm
 
 [Goal! Goal! Goal! (NeoGeo)]
 system = NeoGeo
-match = Goal! Goal! Goal!
+match = goalx3
 
 [Golf Magazine (Sega32X)]
 system = Sega32X
@@ -188,7 +192,7 @@ match = Kurt Warner's Arena Football Unleashed
 
 [League Bowling (NeoGeo)]
 system = NeoGeo
-match = League Bowling
+match = lbowling
 
 [Madden NFL 2001 (PSX)]
 system = PSX
@@ -274,13 +278,9 @@ match = NBA Live 2000
 system = PSX
 match = NBA Showtime - NBA on NBC
 
-[Neo Geo Cup '98: The Road to the Victory (NeoGeo)]
-system = NeoGeo
-match = Neo Geo Cup '98: The Road to the Victory
-
 [Neo Turf Masters (NeoGeo)]
 system = NeoGeo
-match = Neo Turf Masters
+match = turfmast
 
 [New Tropical Angel (Arcade)]
 system = Arcade
@@ -334,13 +334,13 @@ match = Penguin-Kun Wars (JP)
 system = Arcade
 match = Penguin-Kun Wars (US)
 
-[Pleasure Goal: 5 on 5 Mini Soccer (NeoGeo)]
+[Pleasure Goal (NeoGeo)]
 system = NeoGeo
-match = Pleasure Goal: 5 on 5 Mini Soccer
+match = pgoal
 
 [Power Spikes II (NeoGeo)]
 system = NeoGeo
-match = Power Spikes II
+match = pspikes2
 
 [Prize Fighter (MegaCD)]
 system = MegaCD
@@ -396,7 +396,7 @@ match = Slap Shooter
 
 [Soccer Brawl (NeoGeo)]
 system = NeoGeo
-match = Soccer Brawl
+match = socbrawl
 
 [Squash (Arcade)]
 system = Arcade
@@ -404,27 +404,23 @@ match = Squash (Itisa)
 
 [Stakes Winner (NeoGeo)]
 system = NeoGeo
-match = Stakes Winner
+match = stakwin
 
 [Stakes Winner 2 (NeoGeo)]
 system = NeoGeo
-match = Stakes Winner 2
+match = stakwin2
 
 [Steep Slope Sliders (Saturn)]
 system = Saturn
 match = Steep Slope Sliders (USA)
 
-[Street Slam (NeoGeo)]
+[Street Hoop / Street Slam (NeoGeo)]
 system = NeoGeo
-match = Street Slam
-
-[Super Baseball 2020 (NeoGeo)]
-system = NeoGeo
-match = Super Baseball 2020
+match = strhoop
 
 [Super Dodge Ball (NeoGeo)]
 system = NeoGeo
-match = Super Dodge Ball
+match = sdodgeb
 
 [Super League (Arcade)]
 system = Arcade
@@ -436,27 +432,23 @@ match = Super Muscle Bomber- The International Blowout (JP, 940831)
 
 [Super Sidekicks (NeoGeo)]
 system = NeoGeo
-match = Super Sidekicks
+match = ssideki
 
 [Super Sidekicks 2: The World Championship (NeoGeo)]
 system = NeoGeo
-match = Super Sidekicks 2: The World Championship
+match = ssideki2
 
 [Super Sidekicks 3: The Next Glory (NeoGeo)]
 system = NeoGeo
-match = Super Sidekicks 3: The Next Glory
+match = ssideki3
 
 [Tecmo World Soccer '96 (NeoGeo)]
 system = NeoGeo
-match = Tecmo World Soccer '96
+match = tws96
 
 [The Final Round (Arcade)]
 system = Arcade
 match = The Final Round (Ver. M)
-
-[The Ultimate 11: SNK Football Championship (NeoGeo)]
-system = NeoGeo
-match = The Ultimate 11: SNK Football Championship
 
 [Tiger Woods 99 PGA Tour Golf (PSX)]
 system = PSX
@@ -476,7 +468,7 @@ match = Tiger Woods PGA Tour Golf
 
 [Top Player's Golf (NeoGeo)]
 system = NeoGeo
-match = Top Player's Golf
+match = tpgolf
 
 [Track & Field (Arcade)]
 system = Arcade
@@ -506,6 +498,10 @@ match = U.S. Championship V'ball (US)
 system = Saturn
 match = UEFA Euro 96 England (Europe)
 
+[Ultimate 11, The: The SNK Football Championship (NeoGeo)]
+system = NeoGeo
+match = ssideki4
+
 [Valora Valley Golf (Saturn)]
 system = Saturn
 match = Valora Valley Golf (USA)
@@ -528,7 +524,11 @@ match = Wayne Gretzky's 3D Hockey '98
 
 [Windjammers (NeoGeo)]
 system = NeoGeo
-match = Windjammers
+match = wjammers
+
+[Windjammers Supersonic (NeoGeo)]
+system = NeoGeo
+match = wjammss
 
 [Winter Heat (Saturn)]
 system = Saturn

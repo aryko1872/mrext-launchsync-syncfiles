@@ -1,4 +1,4 @@
-name = Platform Shooters
+name = (Platform Shooters)
 author = aryko1872
 updated = 2023-10-17
 
@@ -36,7 +36,7 @@ match = Contra - Legacy of War
 
 [Cyber-Lip (NeoGeo)]
 system = NeoGeo
-match = Cyber-Lip
+match = cyberlip
 
 [E-Swat - Cyber Police (Arcade)]
 system = Arcade
@@ -94,29 +94,33 @@ match = Last Alert
 system = Arcade
 match = Manhattan 24 Bunsyo (JP)
 
-[Metal Slug (NeoGeo)]
+[Metal Slug 2 Turbo (hack) (NeoGeo)]
 system = NeoGeo
-match = Metal Slug
+match = mslug2t
 
-[Metal Slug 2 (NeoGeo)]
+[Metal Slug 2: Super Vehicle-001/II (NeoGeo)]
 system = NeoGeo
-match = Metal Slug 2
+match = mslug2
 
 [Metal Slug 3 (NeoGeo)]
 system = NeoGeo
-match = Metal Slug 3
+match = mslug3
 
 [Metal Slug 4 (NeoGeo)]
 system = NeoGeo
-match = Metal Slug 4
+match = mslug4
 
 [Metal Slug 5 (NeoGeo)]
 system = NeoGeo
-match = Metal Slug 5
+match = mslug5
 
-[Metal Slug X (NeoGeo)]
+[Metal Slug X: Super Vehicle-001 (NeoGeo)]
 system = NeoGeo
-match = Metal Slug X
+match = mslugx
+
+[Metal Slug: Super Vehicle-001 (NeoGeo)]
+system = NeoGeo
+match = mslug
 
 [Midnight Resistance (Arcade)]
 system = Arcade
@@ -124,7 +128,7 @@ match = Midnight Resistance (W)
 
 [Ninja Commando (NeoGeo)]
 system = NeoGeo
-match = Ninja Commando
+match = ncommand
 
 [Ninjakun Majou no Bouken (Arcade)]
 system = Arcade
@@ -144,11 +148,11 @@ match = Secret Agent (W, Rev 3)
 
 [Shock Troopers (NeoGeo)]
 system = NeoGeo
-match = Shock Troopers
+match = shocktro
 
 [Shock Troopers: 2nd Squad (NeoGeo)]
 system = NeoGeo
-match = Shock Troopers: 2nd Squad
+match = shocktr2
 
 [SonSon (Arcade)]
 system = Arcade

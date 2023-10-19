@@ -1,0 +1,39 @@
+name = (All Simpsons Games)
+author = aryko1872
+updated = 2023-10-17
+
+[Bart & the Beanstalk (Gameboy)]
+system = Gameboy
+match = Bart & the Beanstalk (USA, Europe)
+
+[Bart vs. the Juggernauts (Gameboy)]
+system = Gameboy
+match = Bart vs. the Juggernauts (USA, Europe)
+
+[Bart Vs. The Space Mutants (Genesis)]
+system = Genesis
+match = Bart Vs. The Space Mutants (USA, Europe)
+
+[Bart vs. the World (NES)]
+system = NES
+match = Bart vs. the World (USA)
+
+[Bart's Nightmare (SNES)]
+system = SNES
+match = Bart's Nightmare (USA)
+
+[Itchy & Scratchy - Miniature Golf Madness (Gameboy)]
+system = Gameboy
+match = Itchy & Scratchy - Miniature Golf Madness (USA, Europe)
+
+[Night of the Living Treehouse of Horror (GameboyColor)]
+system = GameboyColor
+match = Night of the Living Treehouse of Horror (USA, Europe)
+
+[Road Rage (GBA)]
+system = GBA
+match = Road Rage (USA, Europe)
+
+[The Simpsons (Arcade)]
+system = Arcade
+match = The Simpsons (JP, 2P)

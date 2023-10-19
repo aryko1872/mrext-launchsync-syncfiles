@@ -1,10 +1,6 @@
-name = Fighting Games
+name = (Fighting Games)
 author = aryko1872
 updated = 2023-10-17
-
-[3 Count Bout (NeoGeo)]
-system = NeoGeo
-match = 3 Count Bout
 
 [Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (PSX)]
 system = PSX
@@ -12,19 +8,19 @@ match = Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft
 
 [Aggressors of Dark Kombat (NeoGeo)]
 system = NeoGeo
-match = Aggressors of Dark Kombat
+match = aodk
 
 [Art of Fighting (NeoGeo)]
 system = NeoGeo
-match = Art of Fighting
+match = aof
 
 [Art of Fighting 2 (NeoGeo)]
 system = NeoGeo
-match = Art of Fighting 2
+match = aof2
 
 [Art of Fighting 3: The Path of the Warrior (NeoGeo)]
 system = NeoGeo
-match = Art of Fighting 3: The Path of the Warrior
+match = aof3
 
 [Battle Arena Toshinden (PSX)]
 system = PSX
@@ -60,11 +56,11 @@ match = BoomBots
 
 [Breakers (NeoGeo)]
 system = NeoGeo
-match = Breakers
+match = breakers
 
 [Breakers Revenge (NeoGeo)]
 system = NeoGeo
-match = Breakers Revenge
+match = breakrev
 
 [Bushido Blade (PSX)]
 system = PSX
@@ -128,7 +124,7 @@ match = Digimon Rumble Arena
 
 [Double Dragon (NeoGeo)]
 system = NeoGeo
-match = Double Dragon
+match = doubledr
 
 [Double Dragon V - The Shadow Falls (Genesis)]
 system = Genesis
@@ -160,7 +156,7 @@ match = Evil Zone
 
 [Far East of Eden: Kabuki Klash (NeoGeo)]
 system = NeoGeo
-match = Far East of Eden: Kabuki Klash
+match = kabukikl
 
 [Fatal Fury - Wild Ambition (PSX)]
 system = PSX
@@ -168,23 +164,23 @@ match = Fatal Fury - Wild Ambition
 
 [Fatal Fury 2 (NeoGeo)]
 system = NeoGeo
-match = Fatal Fury 2
+match = fatfury2
 
 [Fatal Fury 3: Road to the Final Victory (NeoGeo)]
 system = NeoGeo
-match = Fatal Fury 3: Road to the Final Victory
+match = fatfury3
 
 [Fatal Fury Special (NeoGeo)]
 system = NeoGeo
-match = Fatal Fury Special
+match = fatfursp
 
 [Fatal Fury: King of Fighters (NeoGeo)]
 system = NeoGeo
-match = Fatal Fury: King of Fighters
+match = fatfury1
 
 [Fight Fever (NeoGeo)]
 system = NeoGeo
-match = Fight Fever
+match = fightfev
 
 [Fighter Maker (PSX)]
 system = PSX
@@ -208,11 +204,11 @@ match = Flash Hiders
 
 [Galaxy Fight: Universal Warriors (NeoGeo)]
 system = NeoGeo
-match = Galaxy Fight: Universal Warriors
+match = galaxyfg
 
 [Garou: Mark of the Wolves (NeoGeo)]
 system = NeoGeo
-match = Garou: Mark of the Wolves
+match = garou
 
 [Godzilla (TurboGrafx16CD)]
 system = TurboGrafx16CD
@@ -260,7 +256,7 @@ match = K-1 The Arena Fighters
 
 [Karnov's Revenge (NeoGeo)]
 system = NeoGeo
-match = Karnov's Revenge
+match = karnovr
 
 [Kensei - Sacred Fist (PSX)]
 system = PSX
@@ -274,17 +270,13 @@ match = Kickboxing
 system = PSX
 match = Killing Zone
 
-[King of the Monsters (NeoGeo)]
+[King of Fighters '94, The (NeoGeo)]
 system = NeoGeo
-match = King of the Monsters
+match = kof94
 
-[King of the Monsters 2 (NeoGeo)]
+[King of Fighters '95, The (NeoGeo)]
 system = NeoGeo
-match = King of the Monsters 2
-
-[Kizuna Encounter (NeoGeo)]
-system = NeoGeo
-match = Kizuna Encounter
+match = kof95
 
 [Kot-Rybolov (Arcade)]
 system = Arcade
@@ -305,10 +297,6 @@ match = Marvel Super Heroes Vs. Street Fighter (EU, 970625)
 [Marvel Vs. Capcom- Clash of Super Heroes (Arcade)]
 system = Arcade
 match = Marvel Vs. Capcom- Clash of Super Heroes (EU, 980123)
-
-[Matrimelee (NeoGeo)]
-system = NeoGeo
-match = Matrimelee
 
 [Mega Man 2- The Power Fighters (Arcade)]
 system = Arcade
@@ -338,13 +326,13 @@ match = Mortal Kombat 4
 system = PSX
 match = MTV Celebrity Deathmatch
 
+[Neo Fight (NeoGeo)]
+system = NeoGeo
+match = neofight
+
 [Night Warriors- Darkstalkers' Revenge (Arcade)]
 system = Arcade
 match = Night Warriors- Darkstalkers' Revenge (EU, 950316)
-
-[Ninja Master's: Haō Ninpō Chō (NeoGeo)]
-system = NeoGeo
-match = Ninja Master's: Haō Ninpō Chō
 
 [Pocket Fighter (PSX)]
 system = PSX
@@ -360,11 +348,11 @@ match = Psychic Force
 
 [Rage of the Dragons (NeoGeo)]
 system = NeoGeo
-match = Rage of the Dragons
+match = rotd
 
 [Ragnagard (NeoGeo)]
 system = NeoGeo
-match = Ragnagard
+match = ragnagrd
 
 [Ranma 1-2: Hard Battle (SNES)]
 system = SNES
@@ -372,15 +360,15 @@ match = Ranma 1-2: Hard Battle (USA)
 
 [Real Bout Fatal Fury (NeoGeo)]
 system = NeoGeo
-match = Real Bout Fatal Fury
+match = rbff1
 
 [Real Bout Fatal Fury 2: The Newcomers (NeoGeo)]
 system = NeoGeo
-match = Real Bout Fatal Fury 2: The Newcomers
+match = rbff2
 
 [Real Bout Fatal Fury Special (NeoGeo)]
 system = NeoGeo
-match = Real Bout Fatal Fury Special
+match = rbffspec
 
 [Rise 2 - Resurrection (PSX)]
 system = PSX
@@ -404,31 +392,31 @@ match = Rock 'Em Sock 'Em Robots Arena
 
 [Samurai Shodown (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown
+match = samsho
 
 [Samurai Shodown II (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown II
+match = samsho2
 
-[Samurai Shodown III: Blades of Blood (NeoGeo)]
+[Samurai Shodown III (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown III: Blades of Blood
+match = samsho3
 
 [Samurai Shodown IV: Amakusa's Revenge (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown IV: Amakusa's Revenge
+match = samsho4
 
 [Samurai Shodown V (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown V
+match = samsho5
 
 [Samurai Shodown V Special (NeoGeo)]
 system = NeoGeo
-match = Samurai Shodown V Special
+match = samsh5sp
 
 [Savage Reign (NeoGeo)]
 system = NeoGeo
-match = Savage Reign
+match = savagere
 
 [Shaolin (PSX)]
 system = PSX
@@ -436,7 +424,7 @@ match = Shaolin (Europe)
 
 [SNK vs. Capcom: SVC Chaos (NeoGeo)]
 system = NeoGeo
-match = SNK vs. Capcom: SVC Chaos
+match = svc
 
 [Soul Blade (PSX)]
 system = PSX
@@ -542,58 +530,6 @@ match = Tekken 2
 system = PSX
 match = Tekken 3
 
-[The King of Fighters '94 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '94
-
-[The King of Fighters '95 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '95
-
-[The King of Fighters '96 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '96
-
-[The King of Fighters '96 Collection (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '96 Collection
-
-[The King of Fighters '97 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '97
-
-[The King of Fighters '98: The Slugfest (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '98: The Slugfest
-
-[The King of Fighters '99: Millennium Battle (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters '99: Millennium Battle
-
-[The King of Fighters 2000 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters 2000
-
-[The King of Fighters 2001 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters 2001
-
-[The King of Fighters 2002: Challenge to Ultimate Battle (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters 2002: Challenge to Ultimate Battle
-
-[The King of Fighters 2003 (NeoGeo)]
-system = NeoGeo
-match = The King of Fighters 2003
-
-[The Last Blade (NeoGeo)]
-system = NeoGeo
-match = The Last Blade
-
-[The Last Blade 2 (NeoGeo)]
-system = NeoGeo
-match = The Last Blade 2
-
 [The Unholy War (PSX)]
 system = PSX
 match = The Unholy War
@@ -656,7 +592,7 @@ match = Virtua Fighter Remix (USA)
 
 [Voltage Fighter Gowcaizer (NeoGeo)]
 system = NeoGeo
-match = Voltage Fighter Gowcaizer
+match = gowcaizr
 
 [Vs. (PSX)]
 system = PSX
@@ -664,7 +600,7 @@ match = Vs.
 
 [Waku Waku 7 (NeoGeo)]
 system = NeoGeo
-match = Waku Waku 7
+match = wakuwak7
 
 [War Gods (PSX)]
 system = PSX
@@ -676,19 +612,19 @@ match = Warpath - Jurassic Park
 
 [World Heroes (NeoGeo)]
 system = NeoGeo
-match = World Heroes
+match = wh1
 
 [World Heroes 2 (NeoGeo)]
 system = NeoGeo
-match = World Heroes 2
+match = wh2
 
 [World Heroes 2 Jet (NeoGeo)]
 system = NeoGeo
-match = World Heroes 2 Jet
+match = wh2j
 
 [World Heroes Perfect (NeoGeo)]
 system = NeoGeo
-match = World Heroes Perfect
+match = whp
 
 [Wu-Tang - Shaolin Style (PSX)]
 system = PSX

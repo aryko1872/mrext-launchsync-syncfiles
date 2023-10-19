@@ -1,4 +1,4 @@
-name = Racing Games
+name = (Racing Games)
 author = aryko1872
 updated = 2023-10-17
 
@@ -108,7 +108,11 @@ match = Muppet RaceMania
 
 [Neo Drift Out: New Technology (NeoGeo)]
 system = NeoGeo
-match = Neo Drift Out: New Technology
+match = neodrift
+
+[Neo-Geo Cup 98: The Road to the Victory (NeoGeo)]
+system = NeoGeo
+match = neocup98
 
 [Out Run (Arcade)]
 system = Arcade
@@ -118,9 +122,9 @@ match = Out Run (sitdown - upright, Rev B) (Enhanced Edition v2.0.3)
 system = Arcade
 match = Out Run (sitdown - upright, Rev B)
 
-[Over Top (NeoGeo)]
+[OverTop (NeoGeo)]
 system = NeoGeo
-match = Over Top
+match = overtop
 
 [Power Drive (Arcade)]
 system = Arcade
@@ -156,7 +160,7 @@ match = Ridge Racer Revolution
 
 [Riding Hero (NeoGeo)]
 system = NeoGeo
-match = Riding Hero
+match = ridhero
 
 [River Patrol (Arcade)]
 system = Arcade
@@ -204,7 +208,7 @@ match = Super Hang-On (sitdown - upright) (unprotected)
 
 [Thrash Rally (NeoGeo)]
 system = NeoGeo
-match = Thrash Rally
+match = trally
 
 [Toy Story Racer (PSX)]
 system = PSX

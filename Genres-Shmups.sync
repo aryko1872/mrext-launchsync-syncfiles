@@ -1,4 +1,4 @@
-name = Shmups
+name = (Shmups)
 author = aryko1872
 updated = 2023-10-17
 
@@ -52,11 +52,11 @@ match = Aero Fighters (USA)
 
 [Aero Fighters 2 (NeoGeo)]
 system = NeoGeo
-match = Aero Fighters 2
+match = sonicwi2
 
 [Aero Fighters 3 (NeoGeo)]
 system = NeoGeo
-match = Aero Fighters 3
+match = sonicwi3
 
 [Ai Chou Aniki (TurboGrafx16CD)]
 system = TurboGrafx16CD
@@ -84,11 +84,11 @@ match = Alpha Mission (USA)
 
 [Alpha Mission II (NeoGeo)]
 system = NeoGeo
-match = Alpha Mission II
+match = alpham2
 
 [Andro Dunos (NeoGeo)]
 system = NeoGeo
-match = Andro Dunos
+match = androdun
 
 [Android Assault - The Revenge of Bari-Arm (MegaCD)]
 system = MegaCD
@@ -192,7 +192,7 @@ match = Blazing Lazers (USA)
 
 [Blazing Star (NeoGeo)]
 system = NeoGeo
-match = Blazing Star
+match = blazstar
 
 [Bomber Raid (MasterSystem)]
 system = MasterSystem
@@ -216,7 +216,7 @@ match = Captain Skyhawk (USA)
 
 [Captain Tomaday (NeoGeo)]
 system = NeoGeo
-match = Captain Tomaday
+match = ctomaday
 
 [Carrier Air Wing (Arcade)]
 system = Arcade
@@ -568,7 +568,7 @@ match = Gallop - Armed Police Unit (JP, M72 hardware)
 
 [Ghost Pilots (NeoGeo)]
 system = NeoGeo
-match = Ghost Pilots
+match = gpilots
 
 [Giga Wing (Arcade)]
 system = Arcade
@@ -712,7 +712,7 @@ match = Insector X (USA)
 
 [Ironclad (NeoGeo)]
 system = NeoGeo
-match = Ironclad
+match = ironclad
 
 [Jikkyou Oshaberi Parodius - Forever with Me (PSX)]
 system = PSX
@@ -776,7 +776,7 @@ match = Kyuukyoku Tiger II Plus (Japan)
 
 [Last Resort (NeoGeo)]
 system = NeoGeo
-match = Last Resort
+match = lresort
 
 [Last Starfighter, The (NES)]
 system = NES
@@ -874,6 +874,10 @@ match = Musha Aleste - Full Metal Fighter Ellinor (Japan)
 system = Arcade
 match = Mystic Riders (W)
 
+[Neo Thunder (NeoGeo)]
+system = NeoGeo
+match = neothund
+
 [Ordyne (TurboGrafx16)]
 system = TurboGrafx16
 match = Ordyne (Japan)
@@ -968,7 +972,7 @@ match = Power Strike II (Europe)
 
 [Prehistoric Isle 2 (NeoGeo)]
 system = NeoGeo
-match = Prehistoric Isle 2
+match = preisle2
 
 [Progear (Arcade)]
 system = Arcade
@@ -980,7 +984,7 @@ match = Psycho Chaser (Japan)
 
 [Pulstar (NeoGeo)]
 system = NeoGeo
-match = Pulstar
+match = pulstar
 
 [R-Type (Arcade)]
 system = Arcade
@@ -1354,10 +1358,6 @@ match = Stinger (USA)
 system = SNES
 match = Strike Gunner S.T.G (USA)
 
-[Strikers 1945 (NeoGeo)]
-system = NeoGeo
-match = Strikers 1945
-
 [Strikers 1945 (PSX)]
 system = PSX
 match = Strikers 1945 (USA)
@@ -1373,6 +1373,10 @@ match = Strikers 1945 II (Japan)
 [Strikers 1945 II (Saturn)]
 system = Saturn
 match = Strikers 1945 II (Japan)
+
+[Strikers 1945 Plus (NeoGeo)]
+system = NeoGeo
+match = s1945p
 
 [Submarine Attack (MasterSystem)]
 system = MasterSystem
@@ -1544,7 +1548,7 @@ match = TwinBee (Japan)
 
 [Twinkle Star Sprites (NeoGeo)]
 system = NeoGeo
-match = Twinkle Star Sprites
+match = twinspri
 
 [Twinkle Star Sprites (Saturn)]
 system = Saturn
@@ -1596,7 +1600,7 @@ match = Viewpoint (USA)
 
 [Viewpoint (NeoGeo)]
 system = NeoGeo
-match = Viewpoint
+match = viewpoin
 
 [Viewpoint (PSX)]
 system = PSX
@@ -1664,7 +1668,7 @@ match = Zaxxon's Motherbase 2000
 
 [Zed Blade (NeoGeo)]
 system = NeoGeo
-match = Zed Blade
+match = zedblade
 
 [Zero Wing (Genesis)]
 system = Genesis

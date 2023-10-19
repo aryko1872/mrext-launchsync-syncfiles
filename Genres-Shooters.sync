@@ -1,4 +1,4 @@
-name = Shooters
+name = (Shooters)
 author = aryko1872
 updated = 2023-10-17
 
@@ -74,9 +74,9 @@ match = Metal Head
 system = PSX
 match = Missile Command
 
-[NAM-1975(NeoGeo)]
+[NAM-1975 (NeoGeo)]
 system = NeoGeo
-match = NAM-1975
+match = nam1975
 
 [Point Blank (PSX)]
 system = PSX
@@ -117,6 +117,10 @@ match = Star Wars Arcade
 [Starblade Alpha (PSX)]
 system = PSX
 match = Starblade Alpha
+
+[Super Spy, The (NeoGeo)]
+system = NeoGeo
+match = superspy
 
 [Time Crisis - Project Titan (PSX)]
 system = PSX

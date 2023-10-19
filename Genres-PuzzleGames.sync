@@ -1,0 +1,191 @@
+name = (Puzzle Games)
+author = aryko1872
+updated = 2023-10-17
+
+[3D Lemmings (PSX)]
+system = PSX
+match = 3D Lemmings
+
+[Baku Baku (Saturn)]
+system = Saturn
+match = Baku Baku (USA)
+
+[Ballistic (PSX)]
+system = PSX
+match = Ballistic
+
+[Bust-A-Move '99 (PSX)]
+system = PSX
+match = Bust-A-Move '99
+
+[Bust-A-Move 2 - Arcade Edition (PSX)]
+system = PSX
+match = Bust-A-Move 2 - Arcade Edition
+
+[Bust-A-Move 4 (PSX)]
+system = PSX
+match = Bust-A-Move 4
+
+[Columns (NeoGeo)]
+system = NeoGeo
+match = columnsn
+
+[Devil Dice (PSX)]
+system = PSX
+match = Devil Dice
+
+[Flash Point (Arcade)]
+system = Arcade
+match = Flash Point (JP, Set 2)
+
+[Gulun.Pa (Arcade)]
+system = Arcade
+match = Gulun.Pa (931220 L, Prototype)
+
+[Gururin (NeoGeo)]
+system = NeoGeo
+match = gururin
+
+[I.Q - Intelligent Qube (PSX)]
+system = PSX
+match = I.Q - Intelligent Qube
+
+[Magical Drop II (NeoGeo)]
+system = NeoGeo
+match = magdrop2
+
+[Magical Drop III (NeoGeo)]
+system = NeoGeo
+match = magdrop3
+
+[Money Puzzle Exchanger (NeoGeo)]
+system = NeoGeo
+match = miexchng
+
+[Mr. Driller (PSX)]
+system = PSX
+match = Mr. Driller
+
+[Next Tetris, The (PSX)]
+system = PSX
+match = Next Tetris, The
+
+[No One Can Stop Mr. Domino (PSX)]
+system = PSX
+match = No One Can Stop Mr. Domino
+
+[One Piece Mansion (PSX)]
+system = PSX
+match = One Piece Mansion
+
+[Panic Bomber (NeoGeo)]
+system = NeoGeo
+match = panicbom
+
+[Pnickies (Arcade)]
+system = Arcade
+match = Pnickies (JP, 940608)
+
+[Pochi and Nyaa (NeoGeo)]
+system = NeoGeo
+match = pnyaa
+
+[Pop 'n Bounce (NeoGeo)]
+system = NeoGeo
+match = popbounc
+
+[Pop'n Magic (TurboGrafx16CD)]
+system = TurboGrafx16CD
+match = Pop'n Magic
+
+[Puzz Loop 2 (Arcade)]
+system = Arcade
+match = Puzz Loop 2 (EU, 010302)
+
+[Puzzle Bobble (NeoGeo)]
+system = NeoGeo
+match = pbobblen
+
+[Puzzle Bobble 2 (NeoGeo)]
+system = NeoGeo
+match = pbobbl2n
+
+[Puzzle De Pon! (NeoGeo)]
+system = NeoGeo
+match = puzzledp
+
+[Puzzle De Pon! R! (NeoGeo)]
+system = NeoGeo
+match = puzzldpr
+
+[Puzzle Star Sweep (PSX)]
+system = PSX
+match = Puzzle Star Sweep
+
+[Puzzle Uo Poko (Arcade)]
+system = Arcade
+match = Puzzle Uo Poko (JP)
+
+[Puzzled (NeoGeo)]
+system = NeoGeo
+match = joyjoy
+
+[Quiz King of Fighters (NeoGeo)]
+system = NeoGeo
+match = quizkof
+
+[Roll Away (PSX)]
+system = PSX
+match = Roll Away
+
+[Solomon's Key (Arcade)]
+system = Arcade
+match = Solomon's Key
+
+[Super Bubble Pop (NeoGeo)]
+system = NeoGeo
+match = sbp
+
+[Super Bubble Pop (PSX)]
+system = PSX
+match = Super Bubble Pop
+
+[Super Puzzle Fighter II Turbo (Arcade)]
+system = Arcade
+match = Super Puzzle Fighter II Turbo (EU, 960529)
+
+[Super Puzzle Fighter II Turbo (PSX)]
+system = PSX
+match = Super Puzzle Fighter II Turbo
+
+[Tecmo Stackers (PSX)]
+system = PSX
+match = Tecmo Stackers
+
+[Tetris (Arcade)]
+system = Arcade
+match = Tetris
+
+[Tetris (JP, System E) (Arcade)]
+system = Arcade
+match = Tetris (JP, System E)
+
+[Tetris (NeoGeo)]
+system = NeoGeo
+match = tetrismn
+
+[Tetris Plus (PSX)]
+system = PSX
+match = Tetris Plus
+
+[Toryumon (Arcade)]
+system = Arcade
+match = Toryumon
+
+[Treasure of the Caribbean (NeoGeo)]
+system = NeoGeo
+match = totc
+
+[ZinTricK (NeoGeo)]
+system = NeoGeo
+match = zintrckb
